@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2047989170396955088",
+    "created_at": "2026-04-25T16:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T17:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048084179402015221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1423473222985658369",
+          "start": 0,
+          "username": "IIlumi0_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048084179402015221",
+    "in_reply_to_user_id": "1423473222985658369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048051576326234144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IIlumi0_0 那个千层蛋糕特别不好吃TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2047989170396955088",
+        "created_at": "2026-04-25T16:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T17:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048084179402015221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1423473222985658369",
+              "start": 0,
+              "username": "IIlumi0_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048084179402015221",
+        "in_reply_to_user_id": "1423473222985658369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048051576326234144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IIlumi0_0 那个千层蛋糕特别不好吃TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1423473222985658369",
+        "conversation_id": "2047989170396955088",
+        "created_at": "2026-04-25T14:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048051576326234144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917047326990094336",
+              "start": 0,
+              "username": "0TwT012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048051576326234144",
+        "in_reply_to_user_id": "1917047326990094336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047989170396955088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0TwT012 什么我觉得那个抹茶巴菲还可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//情感博主//你喜欢我我喜欢你//讨厌没有礼貌的人//🈲搬运",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "188/288🚪纯绿",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2490,
+          "following_count": 195,
+          "like_count": 1069,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 1271
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-06T02:37:26.000Z",
+        "description": "",
+        "id": "1423473222985658369",
+        "name": "IIlumi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044577473200091137/wuvikPsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 73,
+          "like_count": 527,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 156
+        },
+        "username": "IIlumi0_0",
+        "verified": false
+      }
+    ]
+  }
+}

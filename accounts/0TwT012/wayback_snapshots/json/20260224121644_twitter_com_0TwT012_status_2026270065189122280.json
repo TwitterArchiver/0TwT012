@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2026268864196346062",
+    "created_at": "2026-02-24T12:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T13:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026270065189122280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1675485478878085120",
+          "start": 0,
+          "username": "WkymylFf7669364"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026270065189122280",
+    "in_reply_to_user_id": "1675485478878085120",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026268864196346062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WkymylFf7669364 ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 99093,
+        "height": 720,
+        "media_key": "7_2026268793497157632",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2026268793497157632/pu/img/4T2h1cU9tZkbSbky.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026268793497157632/pu/vid/avc1/480x270/AOnVPxssYFFoUh3B.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026268793497157632/pu/vid/avc1/640x360/0AQNMP4z_SVL44wS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026268793497157632/pu/vid/avc1/1280x720/KBpfFmrGcp7YqTQC.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2026268793497157632/pu/pl/QGb6Ki75i2kflJXV.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2026268864196346062",
+        "created_at": "2026-02-24T12:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T13:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026270065189122280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1675485478878085120",
+              "start": 0,
+              "username": "WkymylFf7669364"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026270065189122280",
+        "in_reply_to_user_id": "1675485478878085120",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026268864196346062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WkymylFf7669364 ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2026268793497157632"
+          ]
+        },
+        "author_id": "1675485478878085120",
+        "conversation_id": "2026268864196346062",
+        "created_at": "2026-02-24T12:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T13:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026268864196346062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w9uDHNm3P5",
+              "end": 33,
+              "expanded_url": "https://x.com/WkymylFf7669364/status/2026268864196346062/video/1",
+              "media_key": "7_2026268793497157632",
+              "start": 10,
+              "url": "https://t.co/w9uDHNm3P5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026268864196346062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "b站不过审发这里了 https://t.co/w9uDHNm3P5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//基本全是碎碎念 // 会互fo感兴趣的人—你喜欢我我喜欢你//讨厌没有礼貌的人",
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 218,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 322
+        },
+        "username": "0TwT012",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T12:44:10.000Z",
+        "description": "",
+        "id": "1675485478878085120",
+        "location": " ",
+        "name": "三着",
+        "pinned_tweet_id": "1988889812841959634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011140344306679811/OWJv5hb8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 423,
+          "like_count": 10199,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1015
+        },
+        "username": "WkymylFf7669364",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2030270374689296834",
+    "created_at": "2026-03-07T13:12:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T14:12:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030270374689296834"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2030270374689296834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "割舍一段曾经很亲密的关系不应该一下子斩断全部联系，会因状态的剧烈改变而产生出许多不舍，对意志力不够坚定之人来说容易重蹈覆辙。最合适的方式是延长告别这一过程的时间，让双方都待在彼此看得见的位置，好像什么都没发生过一般，但不再产生任何联系，逐渐习惯后就会永远、永远不会再有交集。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2030270374689296834",
+        "created_at": "2026-03-07T13:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T14:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030270374689296834"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030270374689296834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "割舍一段曾经很亲密的关系不应该一下子斩断全部联系，会因状态的剧烈改变而产生出许多不舍，对意志力不够坚定之人来说容易重蹈覆辙。最合适的方式是延长告别这一过程的时间，让双方都待在彼此看得见的位置，好像什么都没发生过一般，但不再产生任何联系，逐渐习惯后就会永远、永远不会再有交集。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//基本全是碎碎念 // 会互fo感兴趣的人—你喜欢我我喜欢你//讨厌没有礼貌的人   🔝开放提问箱：https://t.co/hLLfQQAfFm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 91,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 68,
+                "url": "https://t.co/hLLfQQAfFm"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 240,
+          "like_count": 601,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 579
+        },
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

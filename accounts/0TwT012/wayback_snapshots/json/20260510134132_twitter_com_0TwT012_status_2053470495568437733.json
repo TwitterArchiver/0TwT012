@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2053470495568437733",
+    "created_at": "2026-05-10T13:41:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T14:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053470495568437733"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2053470495568437733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每次感到痛苦的时候，没有拥下泪水，只是用掌心感知比平时跳动更快的心脏。\n闷慌噬掉余下的、微不可足的所有未知情绪。\n人类，应予自己多高的勇气疗愈痛苦致成的伤裂，再退下伤裂而留的结痂。\n痛苦，缓慢的，长痛的，哽咽下腹。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2053470495568437733",
+        "created_at": "2026-05-10T13:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T14:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053470495568437733"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053470495568437733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次感到痛苦的时候，没有拥下泪水，只是用掌心感知比平时跳动更快的心脏。\n闷慌噬掉余下的、微不可足的所有未知情绪。\n人类，应予自己多高的勇气疗愈痛苦致成的伤裂，再退下伤裂而留的结痂。\n痛苦，缓慢的，长痛的，哽咽下腹。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//情感博主//你喜欢我我喜欢你//讨厌没有礼貌的人//🈲搬运",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "188/288🚪纯绿",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2912,
+          "following_count": 200,
+          "like_count": 1143,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1406
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

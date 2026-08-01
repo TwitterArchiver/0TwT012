@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2028820618398093433",
+    "created_at": "2026-03-03T13:11:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T14:11:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028820618398093433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1925588715394801668",
+          "start": 3,
+          "username": "xiomin020202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028820618398093433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028488247920202018",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiomin020202: 我好想做爱的时候表白 这是可以的吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2028820618398093433",
+        "created_at": "2026-03-03T13:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T14:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028820618398093433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1925588715394801668",
+              "start": 3,
+              "username": "xiomin020202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028820618398093433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028488247920202018",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiomin020202: 我好想做爱的时候表白 这是可以的吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1925588715394801668",
+        "conversation_id": "2028488247920202018",
+        "created_at": "2026-03-02T15:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T16:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028488247920202018"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028488247920202018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 80308,
+          "like_count": 526,
+          "quote_count": 5,
+          "reply_count": 108,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "我好想做爱的时候表白 这是可以的吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//基本全是碎碎念 // 会互fo感兴趣的人—你喜欢我我喜欢你//讨厌没有礼貌的人   🔝开放提问箱：https://t.co/hLLfQQAfFm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 91,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 68,
+                "url": "https://t.co/hLLfQQAfFm"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 227,
+          "like_count": 498,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 475
+        },
+        "username": "0TwT012",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-22T16:26:56.000Z",
+        "description": "要幸福 女孩子可以找我互🥺   推广自辨‼️",
+        "id": "1925588715394801668",
+        "location": "喜欢可以投喂ᗜ𖥦ᗜ",
+        "name": "眠",
+        "pinned_tweet_id": "2028753566416998695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969662451747864579/01ZqwnJ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 29,
+          "like_count": 2916,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 517
+        },
+        "username": "xiomin020202",
+        "verified": false
+      }
+    ]
+  }
+}

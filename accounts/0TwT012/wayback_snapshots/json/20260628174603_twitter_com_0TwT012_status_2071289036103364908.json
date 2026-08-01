@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2071277306799071347",
+    "created_at": "2026-06-28T17:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T18:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071289036103364908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1551816188971274240",
+          "start": 0,
+          "username": "LAMDA21534104"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071289036103364908",
+    "in_reply_to_user_id": "1551816188971274240",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071280082753372508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LAMDA21534104 w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2071277306799071347",
+        "created_at": "2026-06-28T17:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T18:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071289036103364908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1551816188971274240",
+              "start": 0,
+              "username": "LAMDA21534104"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071289036103364908",
+        "in_reply_to_user_id": "1551816188971274240",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071280082753372508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LAMDA21534104 w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551816188971274240",
+        "conversation_id": "2071277306799071347",
+        "created_at": "2026-06-28T17:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T18:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071280082753372508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917047326990094336",
+              "start": 0,
+              "username": "0TwT012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071280082753372508",
+        "in_reply_to_user_id": "1917047326990094336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071277306799071347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0TwT012 嗯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//前夫回忆录//情感博主//你喜欢我我喜欢你//🚪支持口令//讨厌没有礼貌的人//🈲搬运",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "188/288🚪纯绿",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3640,
+          "following_count": 217,
+          "like_count": 1230,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 1792
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-26T06:26:35.000Z",
+        "description": "typing...",
+        "id": "1551816188971274240",
+        "name": "土豆",
+        "pinned_tweet_id": "2068010309999292534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030743569041092608/850-yM6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4057,
+          "following_count": 940,
+          "like_count": 4227,
+          "listed_count": 31,
+          "media_count": 439,
+          "tweet_count": 11313
+        },
+        "url": "",
+        "username": "LAMDA21534104",
+        "verified": true
+      }
+    ]
+  }
+}

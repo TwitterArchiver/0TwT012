@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2032089536973717646",
+    "created_at": "2026-03-12T13:41:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T14:41:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032089536973717646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2021973193700126720",
+          "start": 3,
+          "username": "Kittychime0621"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032089536973717646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031663953328357850",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kittychime0621: 老公性冷淡怎么办？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2032089536973717646",
+        "created_at": "2026-03-12T13:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T14:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032089536973717646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2021973193700126720",
+              "start": 3,
+              "username": "Kittychime0621"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032089536973717646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031663953328357850",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kittychime0621: 老公性冷淡怎么办？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021973193700126720",
+        "conversation_id": "2031663953328357850",
+        "created_at": "2026-03-11T09:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T10:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031663953328357850"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031663953328357850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老公性冷淡怎么办？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//痛苦情感博主//你喜欢我我喜欢你//讨厌没有礼貌的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 231,
+          "like_count": 659,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 657
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-12T15:42:50.000Z",
+        "description": "这个人很懒 什么都没有留下… @Zhouyuuning",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "Zhouyuuning"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kittychime",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kittychime",
+                "start": 0,
+                "url": "https://t.co/jUD4WHYt1W"
+              }
+            ]
+          }
+        },
+        "id": "2021973193700126720",
+        "location": "don't leave me",
+        "name": "Litsad",
+        "pinned_tweet_id": "2030696143198560379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030366299738787840/bgZQ0GWF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 35,
+          "like_count": 520,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 618
+        },
+        "url": "https://t.co/jUD4WHYt1W",
+        "username": "Kittychime0621",
+        "verified": false
+      }
+    ]
+  }
+}

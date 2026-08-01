@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027240699066974208"
+      ],
+      "media_source_tweet_id": [
+        "2027240714275553668"
+      ]
+    },
+    "author_id": "1917047326990094336",
+    "conversation_id": "2027443349830177073",
+    "created_at": "2026-02-27T17:58:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T18:58:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027443349830177073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1591013944897904640",
+          "start": 3,
+          "username": "recsetuaiano"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dwujbj8nT7",
+          "end": 41,
+          "expanded_url": "https://x.com/recsetuaiano/status/2027240714275553668/photo/1",
+          "media_key": "3_2027240699066974208",
+          "start": 18,
+          "url": "https://t.co/Dwujbj8nT7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027443349830177073",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027240714275553668",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @recsetuaiano: https://t.co/Dwujbj8nT7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 581,
+        "media_key": "3_2027240699066974208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCI0rM4aAAAcOhf.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027240699066974208"
+          ],
+          "media_source_tweet_id": [
+            "2027240714275553668"
+          ]
+        },
+        "author_id": "1917047326990094336",
+        "conversation_id": "2027443349830177073",
+        "created_at": "2026-02-27T17:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027443349830177073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1591013944897904640",
+              "start": 3,
+              "username": "recsetuaiano"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dwujbj8nT7",
+              "end": 41,
+              "expanded_url": "https://x.com/recsetuaiano/status/2027240714275553668/photo/1",
+              "media_key": "3_2027240699066974208",
+              "start": 18,
+              "url": "https://t.co/Dwujbj8nT7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027443349830177073",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027240714275553668",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @recsetuaiano: https://t.co/Dwujbj8nT7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027240699066974208"
+          ]
+        },
+        "author_id": "1591013944897904640",
+        "conversation_id": "2027240714275553668",
+        "created_at": "2026-02-27T04:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T05:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027240714275553668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dwujbj8nT7",
+              "end": 23,
+              "expanded_url": "https://x.com/recsetuaiano/status/2027240714275553668/photo/1",
+              "media_key": "3_2027240699066974208",
+              "start": 0,
+              "url": "https://t.co/Dwujbj8nT7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027240714275553668",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 17049,
+          "like_count": 464,
+          "quote_count": 6,
+          "reply_count": 10,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Dwujbj8nT7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//基本全是碎碎念 // 会互fo感兴趣的人—你喜欢我我喜欢你//讨厌没有礼貌的人   🔝开放提问箱：https://t.co/hLLfQQAfFm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 91,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 68,
+                "url": "https://t.co/hLLfQQAfFm"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 221,
+          "like_count": 455,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 416
+        },
+        "username": "0TwT012",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T10:24:30.000Z",
+        "description": "幸福健康",
+        "id": "1591013944897904640",
+        "name": "Kncore",
+        "pinned_tweet_id": "1895181947800084834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956068111305912320/4-Cc0Ztz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99340,
+          "following_count": 97,
+          "like_count": 27371,
+          "listed_count": 93,
+          "media_count": 105,
+          "tweet_count": 373
+        },
+        "username": "recsetuaiano",
+        "verified": false
+      }
+    ]
+  }
+}

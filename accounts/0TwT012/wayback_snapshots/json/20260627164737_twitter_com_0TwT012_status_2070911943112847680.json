@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2070911327493890228",
+    "created_at": "2026-06-27T16:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T17:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070911943112847680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1832726974772523008",
+          "start": 0,
+          "username": "jn2784105847680"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070911943112847680",
+    "in_reply_to_user_id": "1832726974772523008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070911327493890228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jn2784105847680 可以评论的呀宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2070911327493890228",
+        "created_at": "2026-06-27T16:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070911943112847680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1832726974772523008",
+              "start": 0,
+              "username": "jn2784105847680"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070911943112847680",
+        "in_reply_to_user_id": "1832726974772523008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070911327493890228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jn2784105847680 可以评论的呀宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832726974772523008",
+        "conversation_id": "2070911327493890228",
+        "created_at": "2026-06-27T16:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070911327493890228"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070911327493890228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我为啥不能给自己评论，那我也要继续发牢骚。。\n我真的很想哭我觉得我如果把初二那年那三十多万不乱花不买男同小说周边不给男的赚钱不给王者充钱我现在会过的很滋润"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//前夫回忆录//情感博主//你喜欢我我喜欢你//🚪支持口令//讨厌没有礼貌的人//🈲搬运",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "188/288🚪纯绿",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3601,
+          "following_count": 212,
+          "like_count": 1227,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 1782
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T10:25:44.000Z",
+        "description": "🚪2778",
+        "id": "1832726974772523008",
+        "name": "蒽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954554749610819585/r4qwrS6F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 349,
+          "like_count": 1692,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 36
+        },
+        "url": "",
+        "username": "jn2784105847680",
+        "verified": false
+      }
+    ]
+  }
+}

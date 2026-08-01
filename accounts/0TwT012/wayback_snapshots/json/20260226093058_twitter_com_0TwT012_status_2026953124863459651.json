@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2026745157044023759",
+    "created_at": "2026-02-26T09:30:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T10:30:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026953124863459651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1984195418243428352",
+          "start": 0,
+          "username": "luoboxuhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026953124863459651",
+    "in_reply_to_user_id": "1984195418243428352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026816175578153313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoboxuhu 什么四点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2026745157044023759",
+        "created_at": "2026-02-26T09:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T10:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026953124863459651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1984195418243428352",
+              "start": 0,
+              "username": "luoboxuhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026953124863459651",
+        "in_reply_to_user_id": "1984195418243428352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026816175578153313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoboxuhu 什么四点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984195418243428352",
+        "conversation_id": "2026745157044023759",
+        "created_at": "2026-02-26T00:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T01:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026816175578153313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917047326990094336",
+              "start": 0,
+              "username": "0TwT012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026816175578153313",
+        "in_reply_to_user_id": "1917047326990094336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026745157044023759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0TwT012 快四点都还不睡啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//基本全是碎碎念 // 会互fo感兴趣的人—你喜欢我我喜欢你//讨厌没有礼貌的人",
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 212,
+          "like_count": 414,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 373
+        },
+        "username": "0TwT012",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T09:47:20.000Z",
+        "description": "",
+        "id": "1984195418243428352",
+        "location": "唐山",
+        "name": "胡萝卜须",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984242344166854657/6e4xilRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 60,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "username": "luoboxuhu",
+        "verified": false
+      }
+    ]
+  }
+}

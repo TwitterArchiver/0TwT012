@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030921450555940864"
+      ]
+    },
+    "author_id": "1917047326990094336",
+    "conversation_id": "2030921459166843316",
+    "created_at": "2026-03-09T08:19:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T09:19:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030921459166843316"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ll5Te1I5WC",
+          "end": 33,
+          "expanded_url": "https://x.com/0TwT012/status/2030921459166843316/photo/1",
+          "media_key": "3_2030921450555940864",
+          "start": 10,
+          "url": "https://t.co/ll5Te1I5WC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030921459166843316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "久违的提问箱环节！ https://t.co/ll5Te1I5WC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030921450555940864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC9ITIsboAAgiw2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030921450555940864"
+          ]
+        },
+        "author_id": "1917047326990094336",
+        "conversation_id": "2030921459166843316",
+        "created_at": "2026-03-09T08:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T09:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030921459166843316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ll5Te1I5WC",
+              "end": 33,
+              "expanded_url": "https://x.com/0TwT012/status/2030921459166843316/photo/1",
+              "media_key": "3_2030921450555940864",
+              "start": 10,
+              "url": "https://t.co/ll5Te1I5WC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030921459166843316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "久违的提问箱环节！ https://t.co/ll5Te1I5WC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//基本全是碎碎念 // 会互fo感兴趣的人—你喜欢我我喜欢你//讨厌没有礼貌的人   🔝开放提问箱：https://t.co/hLLfQQAfFm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 91,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 68,
+                "url": "https://t.co/hLLfQQAfFm"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 241,
+          "like_count": 615,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 596
+        },
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

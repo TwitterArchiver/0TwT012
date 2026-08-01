@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2026494077160796648",
+    "created_at": "2026-02-25T03:06:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T04:06:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026494077160796648"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2026494077160796648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我当然不相信世界上有永远了，但在某个时刻，看着你的脸，我还是会觉得，我们一定要永远在一起，因为我想。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2026494077160796648",
+        "created_at": "2026-02-25T03:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T04:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026494077160796648"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026494077160796648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我当然不相信世界上有永远了，但在某个时刻，看着你的脸，我还是会觉得，我们一定要永远在一起，因为我想。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//基本全是碎碎念 // 会互fo感兴趣的人—你喜欢我我喜欢你//讨厌没有礼貌的人",
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 219,
+          "like_count": 371,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 336
+        },
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

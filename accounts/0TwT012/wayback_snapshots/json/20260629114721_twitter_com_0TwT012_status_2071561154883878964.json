@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2071561154883878964",
+    "created_at": "2026-06-29T11:47:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T12:47:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071561154883878964"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071561154883878964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "身边的人和事，所处的环境，和他有关的任何事。昨天下午非常想见他，见到后悲哀地发现心情没有任何改善，意识到一些关键问题永远存在。我们的关系永远如鲠在喉，他知情却故作不知，等待我每隔一段时间的怀疑和崩溃，然后说出一些安慰。他说得很明白，没有承诺，即使承诺了我也并不相信，无论他做什么我都缺乏对他亦或对这个世界的信心。\n我也没有耐心玩小孩过家家的游戏了。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "身边的人和事，所处的环境，和他有关的任何事。昨天下午非常想见他，见到后悲哀地发现心情没有任何改善，意识到一些关键问题永远存在。我们的关系永远如鲠在喉，他知情却故作不知，等待我每隔一段时间的怀疑和崩溃，然后说出一些安慰。他说得很明白，没有承诺，即使承诺了我也并不相信，无论他做什么我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2071561154883878964",
+        "created_at": "2026-06-29T11:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T12:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071561154883878964"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071561154883878964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "身边的人和事，所处的环境，和他有关的任何事。昨天下午非常想见他，见到后悲哀地发现心情没有任何改善，意识到一些关键问题永远存在。我们的关系永远如鲠在喉，他知情却故作不知，等待我每隔一段时间的怀疑和崩溃，然后说出一些安慰。他说得很明白，没有承诺，即使承诺了我也并不相信，无论他做什么我都缺乏对他亦或对这个世界的信心。\n我也没有耐心玩小孩过家家的游戏了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "身边的人和事，所处的环境，和他有关的任何事。昨天下午非常想见他，见到后悲哀地发现心情没有任何改善，意识到一些关键问题永远存在。我们的关系永远如鲠在喉，他知情却故作不知，等待我每隔一段时间的怀疑和崩溃，然后说出一些安慰。他说得很明白，没有承诺，即使承诺了我也并不相信，无论他做什么我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//前夫回忆录//情感博主//你喜欢我我喜欢你//🚪支持口令//讨厌没有礼貌的人//🈲搬运",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "188/288🚪纯绿",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3655,
+          "following_count": 222,
+          "like_count": 1231,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 1794
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2026881819631825185",
+    "created_at": "2026-02-26T18:35:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T19:35:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027090256408056109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1571386990775668736",
+          "start": 0,
+          "username": "DontcryU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027090256408056109",
+    "in_reply_to_user_id": "1571386990775668736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026881819631825185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DontcryU 为啥偷文案"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2026881819631825185",
+        "created_at": "2026-02-26T18:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T19:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027090256408056109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1571386990775668736",
+              "start": 0,
+              "username": "DontcryU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027090256408056109",
+        "in_reply_to_user_id": "1571386990775668736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026881819631825185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DontcryU 为啥偷文案"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571386990775668736",
+        "conversation_id": "2026881819631825185",
+        "created_at": "2026-02-26T04:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T05:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026881819631825185"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026881819631825185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4381,
+          "like_count": 113,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "只亲你好不好，只喜欢你好不好，只握紧你的手，擦去你的眼泪好不好，无论如何给你撑腰站在你这边好不好，一起听歌，看雨，看雪，看落日，看烟花，吃饭睡觉打游戏。就这样爱下去直到世界尽头好不好。你的敏感，焦虑，痛苦，眼泪，我都照单全收悉心珍藏好不好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//基本全是碎碎念 // 会互fo感兴趣的人—你喜欢我我喜欢你//讨厌没有礼貌的人   🔝开放提问箱：https://t.co/hLLfQQAfFm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 91,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 68,
+                "url": "https://t.co/hLLfQQAfFm"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 216,
+          "like_count": 440,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 396
+        },
+        "username": "0TwT012",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-18T06:33:59.000Z",
+        "description": "easy come easy go",
+        "id": "1571386990775668736",
+        "name": "草稿本",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019067077399818240/_lpysXRZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7907,
+          "following_count": 186,
+          "like_count": 10456,
+          "listed_count": 20,
+          "media_count": 42,
+          "tweet_count": 4725
+        },
+        "username": "DontcryU",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2025806949246525512",
+    "created_at": "2026-02-24T04:14:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T05:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026148633373229178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1992546803246567424",
+          "start": 0,
+          "username": "hi_ji54050"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026148633373229178",
+    "in_reply_to_user_id": "1992546803246567424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026148106874892299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hi_ji54050 看不懂呀但是他好像破防了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2025806949246525512",
+        "created_at": "2026-02-24T04:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T05:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026148633373229178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1992546803246567424",
+              "start": 0,
+              "username": "hi_ji54050"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026148633373229178",
+        "in_reply_to_user_id": "1992546803246567424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026148106874892299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hi_ji54050 看不懂呀但是他好像破防了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992546803246567424",
+        "conversation_id": "2025806949246525512",
+        "created_at": "2026-02-24T04:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T05:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026148106874892299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917047326990094336",
+              "start": 0,
+              "username": "0TwT012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026148106874892299",
+        "in_reply_to_user_id": "1917047326990094336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025806949246525512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0TwT012 到底是什么让br.觉得支豚（有攻击力啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//基本全是碎碎念 // 会互fo感兴趣的人—你喜欢我我喜欢你//讨厌没有礼貌的人",
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 215,
+          "like_count": 354,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 308
+        },
+        "username": "0TwT012",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T10:52:43.000Z",
+        "description": "我重生在推特当皇帝👸judge所有人，每天批阅20个健身男，请给我推肤白奶子大的健身奶，不要装逼吸气收腹肩小小的细狗，感恩msk🙏",
+        "id": "1992546803246567424",
+        "name": "hijikata的素",
+        "pinned_tweet_id": "1992559599552217557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992557340135137280/d1ilCryM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 42,
+          "like_count": 426,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 749
+        },
+        "username": "hi_ji54050",
+        "verified": false
+      }
+    ]
+  }
+}

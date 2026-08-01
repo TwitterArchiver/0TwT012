@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2065907002367516893",
+    "created_at": "2026-06-13T21:19:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T22:19:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065907002367516893"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065907002367516893",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的头疼的炸了，那种感觉就好像有人拿着锥子从你的太阳穴斜向上往脑子里凿一样。我的胃里也时不时传来灼烧感。\n为什么偏偏异类是我，为什么我作为人但就是融入不了人的社会生活里。很多事情发生之后，在回忆时，总多出一个第三视角的记忆，但现场当时并没有第三人，我又是透过谁的眼睛在看当时的我？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2065907002367516893",
+        "created_at": "2026-06-13T21:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T22:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065907002367516893"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065907002367516893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的头疼的炸了，那种感觉就好像有人拿着锥子从你的太阳穴斜向上往脑子里凿一样。我的胃里也时不时传来灼烧感。\n为什么偏偏异类是我，为什么我作为人但就是融入不了人的社会生活里。很多事情发生之后，在回忆时，总多出一个第三视角的记忆，但现场当时并没有第三人，我又是透过谁的眼睛在看当时的我？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//情感博主//你喜欢我我喜欢你//🚪支持口令//讨厌没有礼貌的人//🈲搬运",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "188/288🚪纯绿",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3392,
+          "following_count": 207,
+          "like_count": 1230,
+          "listed_count": 3,
+          "media_count": 148,
+          "tweet_count": 1647
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

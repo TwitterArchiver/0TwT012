@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2033430218363576731",
+    "created_at": "2026-03-16T06:28:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T07:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033430218363576731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1952728554401374208",
+          "start": 3,
+          "username": "Zhouyuuning"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033430218363576731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033365872660861120",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zhouyuuning: 我对妹子有种特别的耐心…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2033430218363576731",
+        "created_at": "2026-03-16T06:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T07:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033430218363576731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1952728554401374208",
+              "start": 3,
+              "username": "Zhouyuuning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033430218363576731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033365872660861120",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zhouyuuning: 我对妹子有种特别的耐心…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952728554401374208",
+        "conversation_id": "2033365872660861120",
+        "created_at": "2026-03-16T02:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T03:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033365872660861120"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033365872660861120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 858,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我对妹子有种特别的耐心…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/💬//情感博主//你喜欢我我喜欢你//讨厌没有礼貌的人//❌无授权转载搬运",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "🚪388/520纯绿",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1272,
+          "following_count": 242,
+          "like_count": 734,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 756
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T13:49:15.000Z",
+        "description": "人你好 这里是一只kitty(՞_ ̫ _՞)ᐝ 可以称呼我为念念switch偏m 负能量多 爱碎碎念 把这里当情绪回收站🗑️ 分享欲强 当朋友圈发｜时常因为睡眠不足而显得忧郁… @Kittychime0621 过门直接私信发口令",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 90,
+                "username": "Kittychime0621"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kittychime",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kittychime",
+                "start": 0,
+                "url": "https://t.co/f5DKGDkFev"
+              }
+            ]
+          }
+        },
+        "id": "1952728554401374208",
+        "location": "🚪188/388/520/1314",
+        "name": "Kittychime",
+        "pinned_tweet_id": "2027164369663217729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019311099980681216/Brpzcg2E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3673,
+          "following_count": 281,
+          "like_count": 5422,
+          "listed_count": 7,
+          "media_count": 152,
+          "tweet_count": 2339
+        },
+        "url": "https://t.co/f5DKGDkFev",
+        "username": "Zhouyuuning",
+        "verified": false
+      }
+    ]
+  }
+}

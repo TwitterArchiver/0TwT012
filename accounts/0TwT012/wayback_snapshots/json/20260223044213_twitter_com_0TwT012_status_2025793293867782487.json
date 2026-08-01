@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2025793293867782487",
+    "created_at": "2026-02-23T04:42:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T05:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025793293867782487"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2025793293867782487",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "拿上学和上班比谁更痛苦的言论不要出现在我眼前了好吗，那我问你，你上学的时候不痛苦吗？你在那里说出社会之后因为没钱被人伤自尊的话这是真理，但是是在哪里都可以用来拉踩上学的痛苦的吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2025793293867782487",
+        "created_at": "2026-02-23T04:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T05:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025793293867782487"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025793293867782487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拿上学和上班比谁更痛苦的言论不要出现在我眼前了好吗，那我问你，你上学的时候不痛苦吗？你在那里说出社会之后因为没钱被人伤自尊的话这是真理，但是是在哪里都可以用来拉踩上学的痛苦的吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//基本全是碎碎念 // 欢迎互fo—你喜欢我我喜欢你",
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 207,
+          "like_count": 320,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 270
+        },
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

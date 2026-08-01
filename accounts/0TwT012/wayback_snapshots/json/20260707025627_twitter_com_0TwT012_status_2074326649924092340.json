@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2074326649924092340",
+    "created_at": "2026-07-07T02:56:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T03:56:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074326649924092340"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074326649924092340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "后来去了许多寺庙。\n在低眉的菩萨前，那些珍藏的回忆同供香一起燃烧。一半变做烟尘往上飘，一半烧成灰烬向下落。\n我想了太多话，比思念更长，长过那年青灰色的雨季。可握笔时指尖总是颤抖，写着写着，又变回一句“岁岁平安”。\n你在时间洪流里的色彩太鲜明，像白雪和群山间飘动的经幡，所以才配得上如此空泛且平庸的祝福。\n盛起拥有的一切，又补足失去的一切。\n斗拱下黄铜的转经筒在渴望中长出痕迹，而我也曾在爱中被雕刻。纠缠不休的尘寰与缘分间，结局早已写定。若说贪恋，不过是曾经看进你深远的眼睛。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "后来去了许多寺庙。\n在低眉的菩萨前，那些珍藏的回忆同供香一起燃烧。一半变做烟尘往上飘，一半烧成灰烬向下落。\n我想了太多话，比思念更长，长过那年青灰色的雨季。可握笔时指尖总是颤抖，写着写着，又变回一句“岁岁平安”。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2074326649924092340",
+        "created_at": "2026-07-07T02:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074326649924092340"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074326649924092340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "后来去了许多寺庙。\n在低眉的菩萨前，那些珍藏的回忆同供香一起燃烧。一半变做烟尘往上飘，一半烧成灰烬向下落。\n我想了太多话，比思念更长，长过那年青灰色的雨季。可握笔时指尖总是颤抖，写着写着，又变回一句“岁岁平安”。\n你在时间洪流里的色彩太鲜明，像白雪和群山间飘动的经幡，所以才配得上如此空泛且平庸的祝福。\n盛起拥有的一切，又补足失去的一切。\n斗拱下黄铜的转经筒在渴望中长出痕迹，而我也曾在爱中被雕刻。纠缠不休的尘寰与缘分间，结局早已写定。若说贪恋，不过是曾经看进你深远的眼睛。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "后来去了许多寺庙。\n在低眉的菩萨前，那些珍藏的回忆同供香一起燃烧。一半变做烟尘往上飘，一半烧成灰烬向下落。\n我想了太多话，比思念更长，长过那年青灰色的雨季。可握笔时指尖总是颤抖，写着写着，又变回一句“岁岁平安”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//前夫回忆录//情感博主//你喜欢我我喜欢你//🚪支持口令//讨厌没有礼貌的人//🈲搬运",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "188/288🚪纯绿",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3824,
+          "following_count": 253,
+          "like_count": 1244,
+          "listed_count": 2,
+          "media_count": 162,
+          "tweet_count": 1853
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": true
+      }
+    ]
+  }
+}

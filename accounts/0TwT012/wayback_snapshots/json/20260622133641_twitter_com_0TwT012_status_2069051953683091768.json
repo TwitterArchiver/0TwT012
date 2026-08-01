@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2069051577122648562",
+    "created_at": "2026-06-22T13:36:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T14:36:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069051953683091768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2034690866070396928",
+          "start": 0,
+          "username": "shikagokko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069051953683091768",
+    "in_reply_to_user_id": "2034690866070396928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069051577122648562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shikagokko 对不起小宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2069051577122648562",
+        "created_at": "2026-06-22T13:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T14:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069051953683091768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2034690866070396928",
+              "start": 0,
+              "username": "shikagokko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069051953683091768",
+        "in_reply_to_user_id": "2034690866070396928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069051577122648562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shikagokko 对不起小宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034690866070396928",
+        "conversation_id": "2069051577122648562",
+        "created_at": "2026-06-22T13:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T14:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069051577122648562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0twt012/status…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/0twt012/status/2068687879359090854",
+              "start": 12,
+              "url": "https://t.co/V3E1DeuXNw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069051577122648562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068687879359090854",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个账号害我得了抑郁症 https://t.co/V3E1DeuXNw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//情感博主//你喜欢我我喜欢你//🚪支持口令//讨厌没有礼貌的人//🈲搬运",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "188/288🚪纯绿",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3518,
+          "following_count": 208,
+          "like_count": 1239,
+          "listed_count": 2,
+          "media_count": 156,
+          "tweet_count": 1726
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-19T18:00:00.000Z",
+        "description": "有没有人长得好看还特别有钱也很大方，但是癖好是喜欢有精神问题的女孩 ？",
+        "id": "2034690866070396928",
+        "name": "ﾂﾏ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048178269569388544/Mkxgl23E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 16,
+          "like_count": 384,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 166
+        },
+        "url": "",
+        "username": "shikagokko",
+        "verified": false
+      }
+    ]
+  }
+}

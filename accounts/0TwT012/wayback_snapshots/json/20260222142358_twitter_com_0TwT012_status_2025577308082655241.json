@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2025575047549923469",
+    "created_at": "2026-02-22T14:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T15:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025577308082655241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1970955504617914371",
+          "start": 0,
+          "username": "tattoo999000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025577308082655241",
+    "in_reply_to_user_id": "1970955504617914371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025576192280322503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tattoo999000 那很好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2025575047549923469",
+        "created_at": "2026-02-22T14:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T15:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025577308082655241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1970955504617914371",
+              "start": 0,
+              "username": "tattoo999000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025577308082655241",
+        "in_reply_to_user_id": "1970955504617914371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025576192280322503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tattoo999000 那很好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970955504617914371",
+        "conversation_id": "2025575047549923469",
+        "created_at": "2026-02-22T14:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T15:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025576192280322503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917047326990094336",
+              "start": 0,
+              "username": "0TwT012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025576192280322503",
+        "in_reply_to_user_id": "1917047326990094336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025575047549923469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0TwT012 因为大家都很无聊 都在碎碎念"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//基本全是碎碎念 // 欢迎互fo—你喜欢我我喜欢你",
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 203,
+          "like_count": 299,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 233
+        },
+        "username": "0TwT012",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T20:56:32.000Z",
+        "description": "infj#喜欢碎碎念",
+        "id": "1970955504617914371",
+        "name": "p1xel",
+        "pinned_tweet_id": "1972315324285636955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025234325139308544/Mv9ycJPz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 7,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 67
+        },
+        "username": "tattoo999000",
+        "verified": false
+      }
+    ]
+  }
+}

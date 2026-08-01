@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053117095513366529"
+      ]
+    },
+    "author_id": "1917047326990094336",
+    "conversation_id": "2053117108872257549",
+    "created_at": "2026-05-09T14:17:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T15:17:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053117108872257549"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AiW7Dr0VhV",
+          "end": 38,
+          "expanded_url": "https://x.com/0TwT012/status/2053117108872257549/photo/1",
+          "media_key": "3_2053117095513366529",
+          "start": 15,
+          "url": "https://t.co/AiW7Dr0VhV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053117108872257549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这些打广告的知道自己很烦人吗 https://t.co/AiW7Dr0VhV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053117095513366529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4jHthbIAEbVUj.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053117095513366529"
+          ]
+        },
+        "author_id": "1917047326990094336",
+        "conversation_id": "2053117108872257549",
+        "created_at": "2026-05-09T14:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053117108872257549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AiW7Dr0VhV",
+              "end": 38,
+              "expanded_url": "https://x.com/0TwT012/status/2053117108872257549/photo/1",
+              "media_key": "3_2053117095513366529",
+              "start": 15,
+              "url": "https://t.co/AiW7Dr0VhV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053117108872257549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这些打广告的知道自己很烦人吗 https://t.co/AiW7Dr0VhV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//情感博主//你喜欢我我喜欢你//讨厌没有礼貌的人//🈲搬运",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "188/288🚪纯绿",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2882,
+          "following_count": 200,
+          "like_count": 1138,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1399
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

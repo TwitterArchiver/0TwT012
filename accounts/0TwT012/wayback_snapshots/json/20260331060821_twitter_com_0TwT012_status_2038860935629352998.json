@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2038860935629352998",
+    "created_at": "2026-03-31T06:08:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T07:08:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038860935629352998"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sandyyyy0922/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/sandyyyy0922/status/2038819231131689372",
+          "start": 4,
+          "url": "https://t.co/Yym46DbqvV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038860935629352998",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038819231131689372",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如是说 https://t.co/Yym46DbqvV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2038860935629352998",
+        "created_at": "2026-03-31T06:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T07:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038860935629352998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sandyyyy0922/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/sandyyyy0922/status/2038819231131689372",
+              "start": 4,
+              "url": "https://t.co/Yym46DbqvV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038860935629352998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038819231131689372",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如是说 https://t.co/Yym46DbqvV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926589725189476352",
+        "conversation_id": "2038819231131689372",
+        "created_at": "2026-03-31T03:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T04:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038819231131689372"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038819231131689372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1961,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我没有门槛，因为我根本不会加任何人联系方式，推止于推。\n但是我不知道一些人出于什么目的要攻击卖门槛的人。买门槛的人愿意，卖门槛的人愿意，你一个路人不愿意了😂😂到底是真的出于你所谓的高尚道德，还是因为那份门槛钱没到你兜里？又或者是小女孩们没有给你免费看点什么或者是免费陪你聊天？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/💬//碎碎念//情感博主//你喜欢我我喜欢你//讨厌没有礼貌的人//🈲搬运//有些不是文案是我自己写的不要再问我了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "188/288🚪",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1850,
+          "following_count": 198,
+          "like_count": 899,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 997
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T10:42:55.000Z",
+        "description": "碎碎念+照片随机掉落+恋爱碎片｜🇨🇦｜叫我M豆或者豆就好｜Bisexual｜有主人/老公/哥哥/宝宝（同一个人）｜另一个豆没了 有贱畜要弄我😂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%BB%84%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%BB%84%E8%89%B2%E5%A4%A7m%E8%B1%86",
+                "start": 0,
+                "url": "https://t.co/AcyHhjdaY4"
+              }
+            ]
+          }
+        },
+        "id": "1926589725189476352",
+        "location": "Ontario, Canada",
+        "name": "黄色大M🫘",
+        "pinned_tweet_id": "2027836784147583410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926595280301875202/aWTzMjuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1068,
+          "following_count": 325,
+          "like_count": 2115,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 1894
+        },
+        "url": "https://t.co/AcyHhjdaY4",
+        "username": "sandyyyy0922",
+        "verified": true
+      }
+    ]
+  }
+}

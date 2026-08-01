@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2045833593168203891",
+    "created_at": "2026-04-19T11:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T12:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045833593168203891"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045833593168203891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "主要还是对自己很恼火，讨厌自己现在的状态，厌恶自己一直以来“差不多得了”的人生态度。觉得后悔了也没有用，于是就忘了反思。觉得努力也没有用，说不定明天就死了，未来怎么样都只是面对更多的痛苦，于是每天烂在家里，明明是想活的用力一点，结果被大脑一句好累哦，就把前面好多年糊弄过去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2045833593168203891",
+        "created_at": "2026-04-19T11:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045833593168203891"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045833593168203891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主要还是对自己很恼火，讨厌自己现在的状态，厌恶自己一直以来“差不多得了”的人生态度。觉得后悔了也没有用，于是就忘了反思。觉得努力也没有用，说不定明天就死了，未来怎么样都只是面对更多的痛苦，于是每天烂在家里，明明是想活的用力一点，结果被大脑一句好累哦，就把前面好多年糊弄过去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/💬//碎碎念//情感博主//你喜欢我我喜欢你//讨厌没有礼貌的人//🈲搬运//有些不是文案是我自己写的不要再问我了//@lovemore0102只通过🚪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 71,
+                "username": "lovemore0102"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "188/288🚪纯绿",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2315,
+          "following_count": 198,
+          "like_count": 1061,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 1238
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

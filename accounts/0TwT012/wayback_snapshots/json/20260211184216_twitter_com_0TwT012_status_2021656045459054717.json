@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2021656045459054717",
+    "created_at": "2026-02-11T18:42:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T19:42:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021656045459054717"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2021656045459054717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不吃药还能控制自己的情绪，难以想象吃了药之后情绪不受控我会变成什么样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2021656045459054717",
+        "created_at": "2026-02-11T18:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T19:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021656045459054717"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021656045459054717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不吃药还能控制自己的情绪，难以想象吃了药之后情绪不受控我会变成什么样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//基本全是碎碎念 maimai国服（半退坑）会筛人回关—你喜欢我我喜欢你",
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 184,
+          "like_count": 259,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 186
+        },
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

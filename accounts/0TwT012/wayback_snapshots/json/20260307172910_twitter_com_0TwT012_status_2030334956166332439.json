@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2030334956166332439",
+    "created_at": "2026-03-07T17:29:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T18:29:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030334956166332439"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2030334956166332439",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "要么一开始就不熟要么熟了以后就别闹掰，反正对于我来讲如果突然失去一段感情并且闹得难看，我尼玛就会有很长一段时间陷入低谷期，一停下来满脑子都会是这件事太恶心了太恶心了太恶心了太恶心了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2030334956166332439",
+        "created_at": "2026-03-07T17:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T18:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030334956166332439"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030334956166332439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要么一开始就不熟要么熟了以后就别闹掰，反正对于我来讲如果突然失去一段感情并且闹得难看，我尼玛就会有很长一段时间陷入低谷期，一停下来满脑子都会是这件事太恶心了太恶心了太恶心了太恶心了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//基本全是碎碎念 // 会互fo感兴趣的人—你喜欢我我喜欢你//讨厌没有礼貌的人   🔝开放提问箱：https://t.co/hLLfQQAfFm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 91,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 68,
+                "url": "https://t.co/hLLfQQAfFm"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 240,
+          "like_count": 601,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 581
+        },
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2048766254127968319",
+    "created_at": "2026-05-02T11:11:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T12:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050533755119677845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1957956595406761984",
+          "start": 0,
+          "username": "CNYANAv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050533755119677845",
+    "in_reply_to_user_id": "1957956595406761984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050530971204886982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CNYANAv 谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2048766254127968319",
+        "created_at": "2026-05-02T11:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T12:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050533755119677845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1957956595406761984",
+              "start": 0,
+              "username": "CNYANAv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050533755119677845",
+        "in_reply_to_user_id": "1957956595406761984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050530971204886982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CNYANAv 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957956595406761984",
+        "conversation_id": "2048766254127968319",
+        "created_at": "2026-05-02T11:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T12:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050530971204886982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917047326990094336",
+              "start": 0,
+              "username": "0TwT012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050530971204886982",
+        "in_reply_to_user_id": "1917047326990094336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048766254127968319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0TwT012 换一个爱你的吧，我前女友也是差不多这样，我们在一起两个月我给她花了6000，她连我生日都能忘，爱你的只会狠狠宠你的，摸摸你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//情感博主//你喜欢我我喜欢你//讨厌没有礼貌的人//🈲搬运",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "188/288🚪纯绿",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2692,
+          "following_count": 196,
+          "like_count": 1107,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1326
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-20T00:03:33.000Z",
+        "description": "我被上天标上号，错在不算最无可救药。我邀请你 生长在第二对肋骨间隙，所谓的爱人 爱人是无法触及。",
+        "id": "1957956595406761984",
+        "name": "狐狸面条",
+        "pinned_tweet_id": "1979891285168398599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050528059124748288/58-C3eeJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 4,
+          "like_count": 230,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 56
+        },
+        "username": "CNYANAv",
+        "verified": false
+      }
+    ]
+  }
+}

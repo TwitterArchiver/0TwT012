@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025757347747078144",
+        "3_2025757347755528192"
+      ]
+    },
+    "author_id": "1917047326990094336",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2025757353732444606",
+    "created_at": "2026-02-23T02:19:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T03:19:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025757353732444606"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F9NQx0jR4b",
+          "end": 27,
+          "expanded_url": "https://x.com/0TwT012/status/2025757353732444606/photo/1",
+          "media_key": "3_2025757347747078144",
+          "start": 4,
+          "url": "https://t.co/F9NQx0jR4b"
+        },
+        {
+          "display_url": "pic.x.com/F9NQx0jR4b",
+          "end": 27,
+          "expanded_url": "https://x.com/0TwT012/status/2025757353732444606/photo/1",
+          "media_key": "3_2025757347755528192",
+          "start": 4,
+          "url": "https://t.co/F9NQx0jR4b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025757353732444606",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "BBQ https://t.co/F9NQx0jR4b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025757347747078144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBzvkymaIAA7OQD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2025757347755528192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBzvkyobEAASIl9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025757347747078144",
+            "3_2025757347755528192"
+          ]
+        },
+        "author_id": "1917047326990094336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2025757353732444606",
+        "created_at": "2026-02-23T02:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T03:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025757353732444606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F9NQx0jR4b",
+              "end": 27,
+              "expanded_url": "https://x.com/0TwT012/status/2025757353732444606/photo/1",
+              "media_key": "3_2025757347747078144",
+              "start": 4,
+              "url": "https://t.co/F9NQx0jR4b"
+            },
+            {
+              "display_url": "pic.x.com/F9NQx0jR4b",
+              "end": 27,
+              "expanded_url": "https://x.com/0TwT012/status/2025757353732444606/photo/1",
+              "media_key": "3_2025757347755528192",
+              "start": 4,
+              "url": "https://t.co/F9NQx0jR4b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025757353732444606",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "BBQ https://t.co/F9NQx0jR4b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//基本全是碎碎念 // 欢迎互fo—你喜欢我我喜欢你",
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 206,
+          "like_count": 317,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 251
+        },
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

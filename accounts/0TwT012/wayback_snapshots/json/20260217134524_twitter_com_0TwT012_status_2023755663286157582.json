@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023755653924442112",
+        "3_2023755653932871680"
+      ]
+    },
+    "author_id": "1917047326990094336",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2023755663286157582",
+    "created_at": "2026-02-17T13:45:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T14:45:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023755663286157582"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jNK8mfmbTI",
+          "end": 35,
+          "expanded_url": "https://x.com/0TwT012/status/2023755663286157582/photo/1",
+          "media_key": "3_2023755653924442112",
+          "start": 12,
+          "url": "https://t.co/jNK8mfmbTI"
+        },
+        {
+          "display_url": "pic.x.com/jNK8mfmbTI",
+          "end": 35,
+          "expanded_url": "https://x.com/0TwT012/status/2023755663286157582/photo/1",
+          "media_key": "3_2023755653932871680",
+          "start": 12,
+          "url": "https://t.co/jNK8mfmbTI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023755663286157582",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃上了心心念念的苹果糖 https://t.co/jNK8mfmbTI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023755653924442112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBXTC4Ba0AA3Mqt.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1546,
+        "media_key": "3_2023755653932871680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBXTC4DbcAAcktC.jpg",
+        "width": 1159
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023755653924442112",
+            "3_2023755653932871680"
+          ]
+        },
+        "author_id": "1917047326990094336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2023755663286157582",
+        "created_at": "2026-02-17T13:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T14:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023755663286157582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jNK8mfmbTI",
+              "end": 35,
+              "expanded_url": "https://x.com/0TwT012/status/2023755663286157582/photo/1",
+              "media_key": "3_2023755653924442112",
+              "start": 12,
+              "url": "https://t.co/jNK8mfmbTI"
+            },
+            {
+              "display_url": "pic.x.com/jNK8mfmbTI",
+              "end": 35,
+              "expanded_url": "https://x.com/0TwT012/status/2023755663286157582/photo/1",
+              "media_key": "3_2023755653932871680",
+              "start": 12,
+              "url": "https://t.co/jNK8mfmbTI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023755663286157582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃上了心心念念的苹果糖 https://t.co/jNK8mfmbTI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//基本全是碎碎念 //欢迎互fo—你喜欢我我喜欢你",
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 188,
+          "like_count": 263,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 196
+        },
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

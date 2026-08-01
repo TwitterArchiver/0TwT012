@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2071483305879298072",
+    "created_at": "2026-06-29T06:38:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T07:38:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071483305879298072"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071483305879298072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "为什么为什么进行了一次咨询之后精神状态更差了？\n进行了人生第一次心理咨询，在这之前我是完全不信任咨询已经精神医的\n但就是学校有免费的所以我就去了\n然后聊得也还行，只是说了我最近好累好累一个人撕成五个人用\n回家之后我一整个精神病大爆发，彻底力竭彻底酗酒彻底什么也不干甚至时隔两年参加歌手活动诡异。在感受到善意和理解之后瞬间蹬鼻子上脸了真该死"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么为什么进行了一次咨询之后精神状态更差了？\n进行了人生第一次心理咨询，在这之前我是完全不信任咨询已经精神医的\n但就是学校有免费的所以我就去了\n然后聊得也还行，只是说了我最近好累好累一个人撕成五个人用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2071483305879298072",
+        "created_at": "2026-06-29T06:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071483305879298072"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071483305879298072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "为什么为什么进行了一次咨询之后精神状态更差了？\n进行了人生第一次心理咨询，在这之前我是完全不信任咨询已经精神医的\n但就是学校有免费的所以我就去了\n然后聊得也还行，只是说了我最近好累好累一个人撕成五个人用\n回家之后我一整个精神病大爆发，彻底力竭彻底酗酒彻底什么也不干甚至时隔两年参加歌手活动诡异。在感受到善意和理解之后瞬间蹬鼻子上脸了真该死"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么为什么进行了一次咨询之后精神状态更差了？\n进行了人生第一次心理咨询，在这之前我是完全不信任咨询已经精神医的\n但就是学校有免费的所以我就去了\n然后聊得也还行，只是说了我最近好累好累一个人撕成五个人用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//前夫回忆录//情感博主//你喜欢我我喜欢你//🚪支持口令//讨厌没有礼貌的人//🈲搬运",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "188/288🚪纯绿",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3652,
+          "following_count": 221,
+          "like_count": 1231,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 1793
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": true
+      }
+    ]
+  }
+}

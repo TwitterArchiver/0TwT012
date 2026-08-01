@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2072001660294213723",
+    "created_at": "2026-06-30T16:57:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T17:57:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072001660294213723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2000836486057615360",
+          "start": 3,
+          "username": "lovemore0102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072001660294213723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039371773062639899",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lovemore0102: 关于你我写了很多，我写完了所有关于爱的字眼，辞藻，诗篇，最后我发现自己分不清回忆录和假想剧。\n我只知道和你一起计划了很多事，没想到根本没有那一天。\n它们蒸发后变成我的眼泪。\n我爱你，但是爱不是眼泪。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2072001660294213723",
+        "created_at": "2026-06-30T16:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072001660294213723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2000836486057615360",
+              "start": 3,
+              "username": "lovemore0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072001660294213723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039371773062639899",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lovemore0102: 关于你我写了很多，我写完了所有关于爱的字眼，辞藻，诗篇，最后我发现自己分不清回忆录和假想剧。\n我只知道和你一起计划了很多事，没想到根本没有那一天。\n它们蒸发后变成我的眼泪。\n我爱你，但是爱不是眼泪。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000836486057615360",
+        "conversation_id": "2039371773062639899",
+        "created_at": "2026-04-01T15:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T16:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039371773062639899"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039371773062639899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "关于你我写了很多，我写完了所有关于爱的字眼，辞藻，诗篇，最后我发现自己分不清回忆录和假想剧。\n我只知道和你一起计划了很多事，没想到根本没有那一天。\n它们蒸发后变成我的眼泪。\n我爱你，但是爱不是眼泪。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//前夫回忆录//情感博主//你喜欢我我喜欢你//🚪支持口令//讨厌没有礼貌的人//🈲搬运",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "188/288🚪纯绿",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3676,
+          "following_count": 223,
+          "like_count": 1242,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 1817
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-16T07:52:56.000Z",
+        "description": "某人的里推",
+        "id": "2000836486057615360",
+        "location": "爱在何处",
+        "name": "Yuki",
+        "pinned_tweet_id": "2017919612424441887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038321709875687425/MdnrRrm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 5,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "lovemore0102",
+        "verified": false
+      }
+    ]
+  }
+}

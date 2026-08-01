@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2032859092545356168",
+    "created_at": "2026-03-14T18:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T19:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032885601603887389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1715405509732491264",
+          "start": 0,
+          "username": "Elysian_1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032885601603887389",
+    "in_reply_to_user_id": "1715405509732491264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032885069518614767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Elysian_1111 万宝路/和平/七星"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2032859092545356168",
+        "created_at": "2026-03-14T18:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T19:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032885601603887389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1715405509732491264",
+              "start": 0,
+              "username": "Elysian_1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032885601603887389",
+        "in_reply_to_user_id": "1715405509732491264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032885069518614767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Elysian_1111 万宝路/和平/七星"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715405509732491264",
+        "conversation_id": "2032859092545356168",
+        "created_at": "2026-03-14T18:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T19:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032885069518614767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917047326990094336",
+              "start": 0,
+              "username": "0TwT012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032885069518614767",
+        "in_reply_to_user_id": "1917047326990094336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032859092545356168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0TwT012 抽什么烟，请你一包陪我一根"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//情感博主//你喜欢我我喜欢你//讨厌没有礼貌的人//🈲无授权转载搬运",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1165,
+          "following_count": 241,
+          "like_count": 708,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 711
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-20T16:32:06.000Z",
+        "description": "哥几个，我已经辞职了，以后全职聊QQ，上个逼班把我跟大家关系都搞淡了。\n现实朋友全几把断了 真交友还得是咱们网上这群兄弟姐妹 喜欢造谣 喜欢背刺 喜欢二次元 喜欢巴结人 喜欢接盘 背信弃义 吃里扒外",
+        "id": "1715405509732491264",
+        "name": "L",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859635117888765952/o9-4S5t1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 66,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 553
+        },
+        "username": "Elysian_1111",
+        "verified": false
+      }
+    ]
+  }
+}

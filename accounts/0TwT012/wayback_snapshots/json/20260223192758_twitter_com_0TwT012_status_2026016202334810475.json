@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2026010344842461444",
+    "created_at": "2026-02-23T19:27:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T20:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026016202334810475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907815020400197632",
+          "start": 0,
+          "username": "huahuahuaziw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026016202334810475",
+    "in_reply_to_user_id": "1907815020400197632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026010344842461444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuahuaziw 我天呢特别萌的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2026010342757912576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB3VrCdaUAAYPOH.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2026010344842461444",
+        "created_at": "2026-02-23T19:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T20:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026016202334810475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907815020400197632",
+              "start": 0,
+              "username": "huahuahuaziw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026016202334810475",
+        "in_reply_to_user_id": "1907815020400197632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026010344842461444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuahuaziw 我天呢特别萌的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026010342757912576"
+          ]
+        },
+        "author_id": "1907815020400197632",
+        "conversation_id": "2026010344842461444",
+        "created_at": "2026-02-23T19:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T20:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026010344842461444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Y4hENNSY7",
+              "end": 38,
+              "expanded_url": "https://x.com/huahuahuaziw/status/2026010344842461444/photo/1",
+              "media_key": "3_2026010342757912576",
+              "start": 15,
+              "url": "https://t.co/7Y4hENNSY7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026010344842461444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是不是多点陪伴就能不被讨厌。 https://t.co/7Y4hENNSY7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//基本全是碎碎念 // 会互fo感兴趣的人—你喜欢我我喜欢你//讨厌没有礼貌的人",
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 215,
+          "like_count": 349,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 299
+        },
+        "username": "0TwT012",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T15:18:56.000Z",
+        "description": "熊。要认识很多很多美女。",
+        "id": "1907815020400197632",
+        "name": "小暗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025827054697246720/U9sLpgeH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 170,
+          "like_count": 1036,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 117
+        },
+        "username": "huahuahuaziw",
+        "verified": false
+      }
+    ]
+  }
+}

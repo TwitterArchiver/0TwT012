@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2065139521839407526",
+    "created_at": "2026-06-11T18:30:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T19:30:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065139521839407526"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065139521839407526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近我的行动力快死了，可能是坚持苦干了太久都没有正反馈，没有一场世俗意义的成功，给我一种努力了都没用的感觉，那还不如摆烂来得轻松⋯.再加上我的身体和活力经常罢工，感觉自己困困的的，很久都没有那种头脑清醒的感觉，觉得自己仿佛生活在朦胧的雾里，不知道苦干何时才是个头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2065139521839407526",
+        "created_at": "2026-06-11T18:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T19:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065139521839407526"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065139521839407526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近我的行动力快死了，可能是坚持苦干了太久都没有正反馈，没有一场世俗意义的成功，给我一种努力了都没用的感觉，那还不如摆烂来得轻松⋯.再加上我的身体和活力经常罢工，感觉自己困困的的，很久都没有那种头脑清醒的感觉，觉得自己仿佛生活在朦胧的雾里，不知道苦干何时才是个头"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//情感博主//你喜欢我我喜欢你//🚪支持口令//讨厌没有礼貌的人//🈲搬运",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "188/288🚪纯绿",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3387,
+          "following_count": 208,
+          "like_count": 1228,
+          "listed_count": 3,
+          "media_count": 147,
+          "tweet_count": 1636
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

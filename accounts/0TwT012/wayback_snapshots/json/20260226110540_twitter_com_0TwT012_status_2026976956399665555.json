@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2026585411963990395",
+    "created_at": "2026-02-26T11:05:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T12:05:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026976956399665555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1587515619280244736",
+          "start": 0,
+          "username": "zzzc92"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026976956399665555",
+    "in_reply_to_user_id": "1587515619280244736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026976844541772011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzzc92 我有寻麻疹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2026585411963990395",
+        "created_at": "2026-02-26T11:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T12:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026976956399665555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1587515619280244736",
+              "start": 0,
+              "username": "zzzc92"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026976956399665555",
+        "in_reply_to_user_id": "1587515619280244736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026976844541772011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzzc92 我有寻麻疹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587515619280244736",
+        "conversation_id": "2026585411963990395",
+        "created_at": "2026-02-26T11:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T12:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026976844541772011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917047326990094336",
+              "start": 0,
+              "username": "0TwT012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026976844541772011",
+        "in_reply_to_user_id": "1917047326990094336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026585411963990395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0TwT012 鼻炎不吃氯雷他定根本不行，偏头痛也总是经常服用布洛芬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//基本全是碎碎念 // 会互fo感兴趣的人—你喜欢我我喜欢你//讨厌没有礼貌的人   🔝开放提问箱：https://t.co/hLLfQQAfFm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 91,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 68,
+                "url": "https://t.co/hLLfQQAfFm"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 213,
+          "like_count": 416,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 377
+        },
+        "username": "0TwT012",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-01T18:43:21.000Z",
+        "description": "别忘了我",
+        "id": "1587515619280244736",
+        "name": "不会画画",
+        "pinned_tweet_id": "1884495866737897830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668956114745167873/DVvUi4Y6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 106,
+          "like_count": 17172,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 502
+        },
+        "username": "zzzc92",
+        "verified": false
+      }
+    ]
+  }
+}

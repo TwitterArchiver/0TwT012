@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2023806540105609707",
+    "created_at": "2026-02-17T17:07:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T18:07:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023806540105609707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1989734778376261639",
+          "start": 3,
+          "username": "chyu69173"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023806540105609707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023456303814005212",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chyu69173: 要是有个人可以让我无所顾忌放下防备黏糊糊的碎碎念就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2023806540105609707",
+        "created_at": "2026-02-17T17:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T18:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023806540105609707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1989734778376261639",
+              "start": 3,
+              "username": "chyu69173"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023806540105609707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023456303814005212",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chyu69173: 要是有个人可以让我无所顾忌放下防备黏糊糊的碎碎念就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989734778376261639",
+        "conversation_id": "2023456303814005212",
+        "created_at": "2026-02-16T17:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T18:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023456303814005212"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023456303814005212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7007,
+          "like_count": 153,
+          "quote_count": 6,
+          "reply_count": 11,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "要是有个人可以让我无所顾忌放下防备黏糊糊的碎碎念就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//基本全是碎碎念 //欢迎互fo—你喜欢我我喜欢你",
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 188,
+          "like_count": 267,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 199
+        },
+        "username": "0TwT012",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T16:38:47.000Z",
+        "description": "06/158/40 喜欢忧郁宅 碎碎念 infp",
+        "id": "1989734778376261639",
+        "name": "Snow9urial_",
+        "pinned_tweet_id": "2018711728523969000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018926092791189504/DJJGkEGo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 2,
+          "like_count": 688,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 652
+        },
+        "username": "chyu69173",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2038677371147227172",
+    "created_at": "2026-03-31T01:35:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T02:35:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038792200264568999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1945092627306831874",
+          "start": 0,
+          "username": "zailiwoyuandian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038792200264568999",
+    "in_reply_to_user_id": "1945092627306831874",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038677371147227172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zailiwoyuandian 你打死我呀^ ^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2038677371147227172",
+        "created_at": "2026-03-31T01:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T02:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038792200264568999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1945092627306831874",
+              "start": 0,
+              "username": "zailiwoyuandian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038792200264568999",
+        "in_reply_to_user_id": "1945092627306831874",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038677371147227172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zailiwoyuandian 你打死我呀^ ^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945092627306831874",
+        "conversation_id": "2038677371147227172",
+        "created_at": "2026-03-30T17:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T18:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038677371147227172"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038677371147227172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下次说男的起号容易女的起号容易的人就专门开个账号教别人起号得了 傻逼东西 这种话从你妈逼2020年看到现在了 捧臭脚的又是你们这帮傻逼 所有人都死妈了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/💬//碎碎念//情感博主//你喜欢我我喜欢你//讨厌没有礼貌的人//🈲搬运//有些不是文案是我自己写的不要再问我了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "188/288🚪",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1847,
+          "following_count": 197,
+          "like_count": 891,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 990
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T12:06:44.000Z",
+        "description": "性别是婵 是长了跟牛子 不是女生  别怪我没告诉过你\n  快点赞美希文",
+        "id": "1945092627306831874",
+        "name": "请爱希文",
+        "pinned_tweet_id": "2025974153174782172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034847824891006976/ghI6qa6r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 0,
+          "like_count": 3677,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 935
+        },
+        "username": "zailiwoyuandian",
+        "verified": false
+      }
+    ]
+  }
+}

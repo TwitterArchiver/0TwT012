@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2050913859519885695",
+    "created_at": "2026-05-04T18:17:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T19:17:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051365539940114573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1885947682654728193",
+          "start": 0,
+          "username": "iixni9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051365539940114573",
+    "in_reply_to_user_id": "1885947682654728193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051365070190293496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iixni9 爱你小宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2050913859519885695",
+        "created_at": "2026-05-04T18:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T19:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051365539940114573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1885947682654728193",
+              "start": 0,
+              "username": "iixni9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051365539940114573",
+        "in_reply_to_user_id": "1885947682654728193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051365070190293496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iixni9 爱你小宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885947682654728193",
+        "conversation_id": "2050913859519885695",
+        "created_at": "2026-05-04T18:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T19:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051365070190293496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917047326990094336",
+              "start": 0,
+              "username": "0TwT012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051365070190293496",
+        "in_reply_to_user_id": "1917047326990094336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050913859519885695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0TwT012 册掉。我生气了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//情感博主//你喜欢我我喜欢你//讨厌没有礼貌的人//🈲搬运",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "188/288🚪纯绿",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2727,
+          "following_count": 196,
+          "like_count": 1117,
+          "listed_count": 2,
+          "media_count": 127,
+          "tweet_count": 1351
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-02T07:05:56.000Z",
+        "description": "喜欢意淫的脑残女\n另一个备忘录",
+        "id": "1885947682654728193",
+        "name": "不能全怪我",
+        "pinned_tweet_id": "2041198435324321843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045253817672044544/vnkwIRHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 7,
+          "like_count": 248,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 174
+        },
+        "username": "iixni9",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2039032180798849321",
+    "created_at": "2026-03-31T17:28:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T18:28:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039032180798849321"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2039032180798849321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "情难自抑是一种很痛快的感情，但是不要，我觉得不可以把这个称作爱。比起看着你情不自禁地掉下了眼泪，我还是更愿意看你的泪水乖乖待在眼眶中。我知道你心痛了，但是我希望你不要哭，不要可怜我。像之前什么都不知道一样，请你对我笑一笑。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2039032180798849321",
+        "created_at": "2026-03-31T17:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T18:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039032180798849321"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039032180798849321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "情难自抑是一种很痛快的感情，但是不要，我觉得不可以把这个称作爱。比起看着你情不自禁地掉下了眼泪，我还是更愿意看你的泪水乖乖待在眼眶中。我知道你心痛了，但是我希望你不要哭，不要可怜我。像之前什么都不知道一样，请你对我笑一笑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/💬//碎碎念//情感博主//你喜欢我我喜欢你//讨厌没有礼貌的人//🈲搬运//有些不是文案是我自己写的不要再问我了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "188/288🚪纯绿",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1859,
+          "following_count": 198,
+          "like_count": 902,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 998
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

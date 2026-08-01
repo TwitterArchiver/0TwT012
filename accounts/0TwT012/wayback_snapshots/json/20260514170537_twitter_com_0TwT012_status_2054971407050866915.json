@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2054971407050866915",
+    "created_at": "2026-05-14T17:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T18:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054971407050866915"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054971407050866915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那又怎样。我只是很纯粹地喜欢你。第一直觉你并不在我的择偶标准内，但我喜欢。我就想纯粹地喜欢你，以验证我还有重新爱上别人的能力，我看我投射在你身上的样子，明白我的优势，我的缺失。你人本身是好的，但我们大概走不到最后。我是喜欢你的，能不能就让我好好地喜欢你一下，不要问那么多。抓住当下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2054971407050866915",
+        "created_at": "2026-05-14T17:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T18:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054971407050866915"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054971407050866915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那又怎样。我只是很纯粹地喜欢你。第一直觉你并不在我的择偶标准内，但我喜欢。我就想纯粹地喜欢你，以验证我还有重新爱上别人的能力，我看我投射在你身上的样子，明白我的优势，我的缺失。你人本身是好的，但我们大概走不到最后。我是喜欢你的，能不能就让我好好地喜欢你一下，不要问那么多。抓住当下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//情感博主//你喜欢我我喜欢你//🚪支持口令//讨厌没有礼貌的人//🈲搬运",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "188/288🚪纯绿",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2973,
+          "following_count": 205,
+          "like_count": 1168,
+          "listed_count": 2,
+          "media_count": 131,
+          "tweet_count": 1452
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

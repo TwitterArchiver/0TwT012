@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030566092549337090"
+      ]
+    },
+    "author_id": "1917047326990094336",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2030566107808153748",
+    "created_at": "2026-03-08T08:47:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T09:47:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030566107808153748"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SXv4FC24Xn",
+          "end": 28,
+          "expanded_url": "https://x.com/0TwT012/status/2030566107808153748/photo/1",
+          "media_key": "3_2030566092549337090",
+          "start": 5,
+          "url": "https://t.co/SXv4FC24Xn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030566107808153748",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啥意思。 https://t.co/SXv4FC24Xn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030566092549337090",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC4FGk9bMAIgzul.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030566092549337090"
+          ]
+        },
+        "author_id": "1917047326990094336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030566107808153748",
+        "created_at": "2026-03-08T08:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T09:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030566107808153748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SXv4FC24Xn",
+              "end": 28,
+              "expanded_url": "https://x.com/0TwT012/status/2030566107808153748/photo/1",
+              "media_key": "3_2030566092549337090",
+              "start": 5,
+              "url": "https://t.co/SXv4FC24Xn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030566107808153748",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啥意思。 https://t.co/SXv4FC24Xn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//基本全是碎碎念 // 会互fo感兴趣的人—你喜欢我我喜欢你//讨厌没有礼貌的人   🔝开放提问箱：https://t.co/hLLfQQAfFm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 91,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 68,
+                "url": "https://t.co/hLLfQQAfFm"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 239,
+          "like_count": 610,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 585
+        },
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

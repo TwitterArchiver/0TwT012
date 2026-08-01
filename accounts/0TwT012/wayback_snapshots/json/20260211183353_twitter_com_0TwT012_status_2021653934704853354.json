@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2021317317079204034",
+    "created_at": "2026-02-11T18:33:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T19:33:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021653934704853354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1417099624922370056",
+          "start": 0,
+          "username": "XinGZiSaMa_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021653934704853354",
+    "in_reply_to_user_id": "1417099624922370056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021317317079204034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XinGZiSaMa_8964 助力"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "16_2021317305926549513",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HA0pYV4aAAkdEph.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HA0pYV4aAAkdEph.mp4"
+          }
+        ],
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2021317317079204034",
+        "created_at": "2026-02-11T18:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T19:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021653934704853354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1417099624922370056",
+              "start": 0,
+              "username": "XinGZiSaMa_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021653934704853354",
+        "in_reply_to_user_id": "1417099624922370056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021317317079204034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XinGZiSaMa_8964 助力"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2021317305926549513"
+          ]
+        },
+        "author_id": "1417099624922370056",
+        "conversation_id": "2021317317079204034",
+        "created_at": "2026-02-10T20:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T21:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021317317079204034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xBgUYH4AUv",
+              "end": 40,
+              "expanded_url": "https://x.com/XinGZiSaMa_8964/status/2021317317079204034/photo/1",
+              "media_key": "16_2021317305926549513",
+              "start": 17,
+              "url": "https://t.co/xBgUYH4AUv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021317317079204034",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 231,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "哇哇哇我快600fo了快到助力我 https://t.co/xBgUYH4AUv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//基本全是碎碎念 maimai国服（半退坑）会筛人回关—你喜欢我我喜欢你",
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 184,
+          "like_count": 259,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 184
+        },
+        "username": "0TwT012",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-19T12:31:06.000Z",
+        "description": "😈😈｜是个高中生｜友跨顺男｜koishi激推｜maimai打的很菜但已彩框｜bangdream｜电吉他学习ing｜Guns N' Roses｜od｜自残过一段时间但已戒｜双相｜日语学习中，但不会英文｜喜欢猫｜https://t.co/0yYZjwBLkU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingzisama",
+                "end": 127,
+                "expanded_url": "https://ngl.link/xingzisama",
+                "start": 104,
+                "url": "https://t.co/0yYZjwBLkU"
+              }
+            ]
+          }
+        },
+        "id": "1417099624922370056",
+        "location": "天堂",
+        "name": "性子sama🐾🎸",
+        "pinned_tweet_id": "2020530734738682150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010818938666733568/mI3QBzcv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 382,
+          "like_count": 46829,
+          "listed_count": 3,
+          "media_count": 1470,
+          "tweet_count": 8632
+        },
+        "username": "XinGZiSaMa_8964",
+        "verified": false
+      }
+    ]
+  }
+}

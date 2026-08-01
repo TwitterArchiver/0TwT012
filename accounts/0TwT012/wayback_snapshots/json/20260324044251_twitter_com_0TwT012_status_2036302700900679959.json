@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2036301346408898900",
+    "created_at": "2026-03-24T04:42:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T05:42:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036302700900679959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1810854050172391426",
+          "start": 0,
+          "username": "Sherry679985035"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036302700900679959",
+    "in_reply_to_user_id": "1810854050172391426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036302549389856962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sherry679985035 有些是下午四点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2036301346408898900",
+        "created_at": "2026-03-24T04:42:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T05:42:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036302700900679959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1810854050172391426",
+              "start": 0,
+              "username": "Sherry679985035"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036302700900679959",
+        "in_reply_to_user_id": "1810854050172391426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036302549389856962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sherry679985035 有些是下午四点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810854050172391426",
+        "conversation_id": "2036301346408898900",
+        "created_at": "2026-03-24T04:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T05:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036302549389856962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917047326990094336",
+              "start": 0,
+              "username": "0TwT012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036302549389856962",
+        "in_reply_to_user_id": "1917047326990094336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036301346408898900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0TwT012 啊啊老大，一般要2点前退房吧（？），所以应该不是刚退房哦₍˄·͈༝·͈˄₎◞︎ ̑̑ෆ⃛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/💬//碎碎念//情感博主//你喜欢我我喜欢你//讨厌没有礼貌的人//🈲搬运//有些不是文案是我自己写的不要再问我了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "188/288🚪",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 196,
+          "like_count": 802,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 898
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T01:50:42.000Z",
+        "description": "05｜♂｜个人博客请来参观：https://t.co/dpdsAZef9o｜请向我匿名提问：https://t.co/OofLeHaUgX｜请向我倾述负面情绪方便我有一天可以撑不住",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vansherry.online",
+                "end": 37,
+                "expanded_url": "http://vansherry.online",
+                "start": 14,
+                "url": "https://t.co/dpdsAZef9o"
+              },
+              {
+                "display_url": "ngl.link/tove37756",
+                "end": 69,
+                "expanded_url": "https://ngl.link/tove37756",
+                "start": 46,
+                "url": "https://t.co/OofLeHaUgX"
+              }
+            ]
+          }
+        },
+        "id": "1810854050172391426",
+        "location": "广州",
+        "name": "𝗰𝗢𝘃𝗢𝗮𝘁",
+        "pinned_tweet_id": "2035415889890414705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025420792050466816/t9S6FZCB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 442,
+          "like_count": 1852,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 1128
+        },
+        "username": "Sherry679985035",
+        "verified": false
+      }
+    ]
+  }
+}

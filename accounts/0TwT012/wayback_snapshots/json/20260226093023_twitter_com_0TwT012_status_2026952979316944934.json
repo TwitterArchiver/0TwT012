@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2026942802828177788",
+    "created_at": "2026-02-26T09:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T10:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026952979316944934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1883854964772175872",
+          "start": 0,
+          "username": "kocatia_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026952979316944934",
+    "in_reply_to_user_id": "1883854964772175872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026942802828177788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kocatia_ oh…会赢的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026942788064124928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEluf6aIAAwpPi.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2026942802828177788",
+        "created_at": "2026-02-26T09:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T10:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026952979316944934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883854964772175872",
+              "start": 0,
+              "username": "kocatia_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026952979316944934",
+        "in_reply_to_user_id": "1883854964772175872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026942802828177788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kocatia_ oh…会赢的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026942788064124928"
+          ]
+        },
+        "author_id": "1883854964772175872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026942802828177788",
+        "created_at": "2026-02-26T08:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T09:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026942802828177788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wgIHZJR1x9",
+              "end": 117,
+              "expanded_url": "https://x.com/kocatia_/status/2026942802828177788/photo/1",
+              "media_key": "3_2026942788064124928",
+              "start": 94,
+              "url": "https://t.co/wgIHZJR1x9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026942802828177788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "差点在机厅哭出来了\n出绝赞还有100.55然后开始手抖\n水段粉一堆然后落最后一个绝赞正好这个分\n答应了去吃朋友的生日饭要留一个小时车程出来所以还不能继续刷\n。。。这个成绩真的卡得我好难受 https://t.co/wgIHZJR1x9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//基本全是碎碎念 // 会互fo感兴趣的人—你喜欢我我喜欢你//讨厌没有礼貌的人",
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 212,
+          "like_count": 414,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 372
+        },
+        "username": "0TwT012",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T12:30:09.000Z",
+        "description": "音游吃/プロセカMaster30↓全AP/maimai辉雪樱将/自介详见置顶/你喜欢我我就喜欢你/会回fo成分相似/推特是我发病的地方 推文内容请对墙内熟人保密感谢配合/提问箱https://t.co/LvgztTwu14",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kocatia",
+                "end": 111,
+                "expanded_url": "https://ngl.link/kocatia",
+                "start": 88,
+                "url": "https://t.co/LvgztTwu14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/391274456",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/391274456",
+                "start": 0,
+                "url": "https://t.co/w4fZD1Xfj1"
+              }
+            ]
+          }
+        },
+        "id": "1883854964772175872",
+        "location": "秘封俱乐部",
+        "name": "Anaphylaxie???",
+        "pinned_tweet_id": "1993352489262108795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024281813410316288/lEMIcIyd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 118,
+          "like_count": 2198,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 683
+        },
+        "url": "https://t.co/w4fZD1Xfj1",
+        "username": "kocatia_",
+        "verified": false
+      }
+    ]
+  }
+}

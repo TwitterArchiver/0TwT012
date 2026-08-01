@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2047648478118158389",
+    "created_at": "2026-04-24T20:53:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T21:53:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047781038731227504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1250677614882086912",
+          "start": 0,
+          "username": "uhihkn_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047781038731227504",
+    "in_reply_to_user_id": "1250677614882086912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047732457202438607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uhihkn_ 你自己傻逼别觉得别人也傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2047648478118158389",
+        "created_at": "2026-04-24T20:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T21:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047781038731227504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1250677614882086912",
+              "start": 0,
+              "username": "uhihkn_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047781038731227504",
+        "in_reply_to_user_id": "1250677614882086912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047732457202438607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uhihkn_ 你自己傻逼别觉得别人也傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1250677614882086912",
+        "conversation_id": "2047648478118158389",
+        "created_at": "2026-04-24T17:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T18:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047732457202438607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917047326990094336",
+              "start": 0,
+              "username": "0TwT012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047732457202438607",
+        "in_reply_to_user_id": "1917047326990094336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2402,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047648478118158389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0TwT012 是谁想起来跟你这种门槛加纯绿的，这不傻逼吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//情感博主//付费树洞//你喜欢我我喜欢你//讨厌没有礼貌的人//🈲搬运//不是文案是我自己写的//里@lovemore0102过里号请先入🚪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 66,
+                "username": "lovemore0102"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "188/288🚪纯绿",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2462,
+          "following_count": 196,
+          "like_count": 1067,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1267
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-16T06:49:26.000Z",
+        "description": "",
+        "id": "1250677614882086912",
+        "name": "定仙游",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824101625411059712/Az8EpXqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 1647,
+          "like_count": 9228,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 62
+        },
+        "username": "uhihkn_",
+        "verified": false
+      }
+    ]
+  }
+}

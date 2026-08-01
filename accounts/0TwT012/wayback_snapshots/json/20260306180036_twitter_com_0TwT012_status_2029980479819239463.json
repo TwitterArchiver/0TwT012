@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029980476895809536"
+      ]
+    },
+    "author_id": "1917047326990094336",
+    "conversation_id": "2029980479819239463",
+    "created_at": "2026-03-06T18:00:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T19:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029980479819239463"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "We don't disclose our methodology, but we guarantee that it is the same for all users, taking into account the worth of every Twitter account equally.",
+          "display_url": "infinitetweet.me/account-worth?…",
+          "end": 46,
+          "expanded_url": "https://infinitetweet.me/account-worth?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2027651971411546115/dqXNRKSB?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2027651971411546115/dqXNRKSB?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 23,
+          "status": 200,
+          "title": "Account Worth • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/account-worth?lang=zh",
+          "url": "https://t.co/dbj4K7ITd6"
+        },
+        {
+          "display_url": "pic.x.com/uhrGm2UuA0",
+          "end": 70,
+          "expanded_url": "https://x.com/0TwT012/status/2029980479819239463/photo/1",
+          "media_key": "3_2029980476895809536",
+          "start": 47,
+          "url": "https://t.co/uhrGm2UuA0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029980479819239463",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的推特价值是: ¥4,030.88\n\n➡️ https://t.co/dbj4K7ITd6 https://t.co/uhrGm2UuA0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 861,
+        "media_key": "3_2029980476895809536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCvwfQpaUAAGFN4.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029980476895809536"
+          ]
+        },
+        "author_id": "1917047326990094336",
+        "conversation_id": "2029980479819239463",
+        "created_at": "2026-03-06T18:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T19:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029980479819239463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "We don't disclose our methodology, but we guarantee that it is the same for all users, taking into account the worth of every Twitter account equally.",
+              "display_url": "infinitetweet.me/account-worth?…",
+              "end": 46,
+              "expanded_url": "https://infinitetweet.me/account-worth?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2027651971411546115/dqXNRKSB?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2027651971411546115/dqXNRKSB?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 23,
+              "status": 200,
+              "title": "Account Worth • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/account-worth?lang=zh",
+              "url": "https://t.co/dbj4K7ITd6"
+            },
+            {
+              "display_url": "pic.x.com/uhrGm2UuA0",
+              "end": 70,
+              "expanded_url": "https://x.com/0TwT012/status/2029980479819239463/photo/1",
+              "media_key": "3_2029980476895809536",
+              "start": 47,
+              "url": "https://t.co/uhrGm2UuA0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029980479819239463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的推特价值是: ¥4,030.88\n\n➡️ https://t.co/dbj4K7ITd6 https://t.co/uhrGm2UuA0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//基本全是碎碎念 // 会互fo感兴趣的人—你喜欢我我喜欢你//讨厌没有礼貌的人   🔝开放提问箱：https://t.co/hLLfQQAfFm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 91,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 68,
+                "url": "https://t.co/hLLfQQAfFm"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 237,
+          "like_count": 589,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 556
+        },
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

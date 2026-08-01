@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2021656089385894195",
+    "created_at": "2026-02-11T18:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T19:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021656089385894195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1485158225167413248",
+          "start": 3,
+          "username": "chihorishizuku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021656089385894195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021583541797073337",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chihorishizuku: 不要有自己的人生好不好 只围着我转好不好 把我放在第一位好不好 不要把我推开好不好 我不想去找别人 我只想要你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2021656089385894195",
+        "created_at": "2026-02-11T18:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T19:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021656089385894195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1485158225167413248",
+              "start": 3,
+              "username": "chihorishizuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021656089385894195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021583541797073337",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chihorishizuku: 不要有自己的人生好不好 只围着我转好不好 把我放在第一位好不好 不要把我推开好不好 我不想去找别人 我只想要你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1485158225167413248",
+        "conversation_id": "2021583541797073337",
+        "created_at": "2026-02-11T13:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T14:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021583541797073337"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021583541797073337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 368,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "不要有自己的人生好不好 只围着我转好不好 把我放在第一位好不好 不要把我推开好不好 我不想去找别人 我只想要你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//基本全是碎碎念 maimai国服（半退坑）会筛人回关—你喜欢我我喜欢你",
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 184,
+          "like_count": 259,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 187
+        },
+        "username": "0TwT012",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T07:51:38.000Z",
+        "description": "INTP｜LGBTQ+｜06｜ASD｜BPD｜ADHD｜管人痴🥕｜直fo查成分回｜岁静日常推｜婉拒品客｜推荐我自己长期使用的喵叽VPN加速器 高速 稳定 强推！🔗：https://t.co/4vU1YBRvNm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 105,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=H0wBxWpB",
+                "start": 82,
+                "url": "https://t.co/4vU1YBRvNm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shoumanori",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shoumanori",
+                "start": 0,
+                "url": "https://t.co/7ApZglqYBr"
+              }
+            ]
+          }
+        },
+        "id": "1485158225167413248",
+        "location": "匿名问答→",
+        "name": "游吟诗人Sirelia🍥",
+        "pinned_tweet_id": "2020038370509091038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013973066188292096/u4D8d_Sz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3711,
+          "following_count": 663,
+          "like_count": 25091,
+          "listed_count": 9,
+          "media_count": 473,
+          "tweet_count": 4938
+        },
+        "url": "https://t.co/7ApZglqYBr",
+        "username": "chihorishizuku",
+        "verified": true
+      }
+    ]
+  }
+}

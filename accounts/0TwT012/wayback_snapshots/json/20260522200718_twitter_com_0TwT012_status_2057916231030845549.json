@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2057748413006201273",
+    "created_at": "2026-05-22T20:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T21:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057916231030845549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1623229661454139392",
+          "start": 0,
+          "username": "sissysi89217873"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057916231030845549",
+    "in_reply_to_user_id": "1623229661454139392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057788974354321732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sissysi89217873 会考虑多出门"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2057748413006201273",
+        "created_at": "2026-05-22T20:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T21:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057916231030845549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1623229661454139392",
+              "start": 0,
+              "username": "sissysi89217873"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057916231030845549",
+        "in_reply_to_user_id": "1623229661454139392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057788974354321732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sissysi89217873 会考虑多出门"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1623229661454139392",
+        "conversation_id": "2057748413006201273",
+        "created_at": "2026-05-22T11:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T12:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057788974354321732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917047326990094336",
+              "start": 0,
+              "username": "0TwT012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057788974354321732",
+        "in_reply_to_user_id": "1917047326990094336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057748413006201273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0TwT012 主播可以多更新一点舞萌吗（礼貌提问"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//情感博主//你喜欢我我喜欢你//🚪支持口令//讨厌没有礼貌的人//🈲搬运",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "188/288🚪纯绿",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3129,
+          "following_count": 204,
+          "like_count": 1185,
+          "listed_count": 2,
+          "media_count": 136,
+          "tweet_count": 1516
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-08T07:58:29.000Z",
+        "description": "",
+        "id": "1623229661454139392",
+        "location": "无",
+        "name": "参上",
+        "pinned_tweet_id": "2031660145592438907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867868094699573248/eobNv7y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 65,
+          "like_count": 5143,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1155
+        },
+        "username": "sissysi89217873",
+        "verified": false
+      }
+    ]
+  }
+}

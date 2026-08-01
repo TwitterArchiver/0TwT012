@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2070918280920150124",
+    "created_at": "2026-06-27T17:12:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T18:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070918280920150124"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0twt012/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/0twt012/status/2020558471880732841",
+          "start": 5,
+          "url": "https://t.co/806xgd8ZE7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070918280920150124",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020558471880732841",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我捞一下 https://t.co/806xgd8ZE7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1081,
+        "media_key": "3_2020558465949999104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAp3OCrboAAlk40.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2020558462258995200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAp3N07bYAABwIl.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2070918280920150124",
+        "created_at": "2026-06-27T17:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T18:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070918280920150124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0twt012/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/0twt012/status/2020558471880732841",
+              "start": 5,
+              "url": "https://t.co/806xgd8ZE7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070918280920150124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020558471880732841",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我捞一下 https://t.co/806xgd8ZE7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020558465949999104",
+            "3_2020558462258995200"
+          ]
+        },
+        "author_id": "1917047326990094336",
+        "conversation_id": "2020558471880732841",
+        "created_at": "2026-02-08T18:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T19:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020558471880732841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RvyHqAzB19",
+              "end": 25,
+              "expanded_url": "https://x.com/0TwT012/status/2020558471880732841/photo/1",
+              "media_key": "3_2020558465949999104",
+              "start": 2,
+              "url": "https://t.co/RvyHqAzB19"
+            },
+            {
+              "display_url": "pic.x.com/RvyHqAzB19",
+              "end": 25,
+              "expanded_url": "https://x.com/0TwT012/status/2020558471880732841/photo/1",
+              "media_key": "3_2020558462258995200",
+              "start": 2,
+              "url": "https://t.co/RvyHqAzB19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020558471880732841",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 131388,
+          "like_count": 99,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "🔝 https://t.co/RvyHqAzB19"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//前夫回忆录//情感博主//你喜欢我我喜欢你//🚪支持口令//讨厌没有礼貌的人//🈲搬运",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "188/288🚪纯绿",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3603,
+          "following_count": 209,
+          "like_count": 1228,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 1783
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

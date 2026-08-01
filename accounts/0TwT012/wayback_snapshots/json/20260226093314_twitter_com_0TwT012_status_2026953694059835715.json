@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2026953694059835715",
+    "created_at": "2026-02-26T09:33:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T10:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026953694059835715"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2026953694059835715",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这种诡异的信任实在太恐怖了？！“如果是你的话就没关系...”这种话跟倒贴到底有啥区别？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2026953694059835715",
+        "created_at": "2026-02-26T09:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T10:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026953694059835715"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026953694059835715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种诡异的信任实在太恐怖了？！“如果是你的话就没关系...”这种话跟倒贴到底有啥区别？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//基本全是碎碎念 // 会互fo感兴趣的人—你喜欢我我喜欢你//讨厌没有礼貌的人",
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 212,
+          "like_count": 414,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 374
+        },
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

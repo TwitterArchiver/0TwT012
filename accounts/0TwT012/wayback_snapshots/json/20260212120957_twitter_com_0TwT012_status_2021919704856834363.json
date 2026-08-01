@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2021919704856834363",
+    "created_at": "2026-02-12T12:09:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T13:09:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021919704856834363"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hoxer15/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/hoxer15/status/2021787351866048906",
+          "start": 5,
+          "url": "https://t.co/kwkQ2MfSTH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021919704856834363",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021787351866048906",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样 https://t.co/kwkQ2MfSTH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2021919704856834363",
+        "created_at": "2026-02-12T12:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T13:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021919704856834363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoxer15/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/hoxer15/status/2021787351866048906",
+              "start": 5,
+              "url": "https://t.co/kwkQ2MfSTH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021919704856834363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021787351866048906",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/kwkQ2MfSTH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558346182316896256",
+        "conversation_id": "2021787351866048906",
+        "created_at": "2026-02-12T03:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T04:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021787351866048906"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021787351866048906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 827,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "看到你对别人也很好，我就不太想理你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//基本全是碎碎念 maimai国服（半退坑）会筛人回关—你喜欢我我喜欢你",
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 186,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 191
+        },
+        "username": "0TwT012",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T06:54:23.000Z",
+        "description": "可以叫我小物/4i /ENTP/摩羯/头像是本人/没门不约不聊骚",
+        "id": "1558346182316896256",
+        "location": "就那个哪呗",
+        "name": "人类是我的兼职",
+        "pinned_tweet_id": "2016542507140776031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012612801785745409/gnwKb6-v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1340,
+          "following_count": 223,
+          "like_count": 18361,
+          "listed_count": 1,
+          "media_count": 339,
+          "tweet_count": 9802
+        },
+        "username": "hoxer15",
+        "verified": false
+      }
+    ]
+  }
+}

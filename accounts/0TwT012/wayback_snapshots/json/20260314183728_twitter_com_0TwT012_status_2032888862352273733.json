@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032888847613440000",
+        "3_2032888847617728512"
+      ]
+    },
+    "author_id": "1917047326990094336",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2032888862352273733",
+    "created_at": "2026-03-14T18:37:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T19:37:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032888862352273733"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8YTvcEiEb6",
+          "end": 30,
+          "expanded_url": "https://x.com/0TwT012/status/2032888862352273733/photo/1",
+          "media_key": "3_2032888847613440000",
+          "start": 7,
+          "url": "https://t.co/8YTvcEiEb6"
+        },
+        {
+          "display_url": "pic.x.com/8YTvcEiEb6",
+          "end": 30,
+          "expanded_url": "https://x.com/0TwT012/status/2032888862352273733/photo/1",
+          "media_key": "3_2032888847617728512",
+          "start": 7,
+          "url": "https://t.co/8YTvcEiEb6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032888862352273733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "的一些成绩图 https://t.co/8YTvcEiEb6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2032888847613440000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDZFot3aMAAO3Z8.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032888847617728512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDZFot4boAA6Fh3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032888847613440000",
+            "3_2032888847617728512"
+          ]
+        },
+        "author_id": "1917047326990094336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032888862352273733",
+        "created_at": "2026-03-14T18:37:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T19:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032888862352273733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8YTvcEiEb6",
+              "end": 30,
+              "expanded_url": "https://x.com/0TwT012/status/2032888862352273733/photo/1",
+              "media_key": "3_2032888847613440000",
+              "start": 7,
+              "url": "https://t.co/8YTvcEiEb6"
+            },
+            {
+              "display_url": "pic.x.com/8YTvcEiEb6",
+              "end": 30,
+              "expanded_url": "https://x.com/0TwT012/status/2032888862352273733/photo/1",
+              "media_key": "3_2032888847617728512",
+              "start": 7,
+              "url": "https://t.co/8YTvcEiEb6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032888862352273733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "的一些成绩图 https://t.co/8YTvcEiEb6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//情感博主//你喜欢我我喜欢你//讨厌没有礼貌的人//🈲无授权转载搬运",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 241,
+          "like_count": 708,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 713
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

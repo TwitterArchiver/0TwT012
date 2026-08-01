@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2039196202131222782",
+    "created_at": "2026-04-01T07:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T08:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039239349267808502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1793300901622640640",
+          "start": 0,
+          "username": "Huiyzzm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039239349267808502",
+    "in_reply_to_user_id": "1793300901622640640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039238278084436365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huiyzzm 真的很贵，但是想吃就吃w！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2039196202131222782",
+        "created_at": "2026-04-01T07:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T08:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039239349267808502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1793300901622640640",
+              "start": 0,
+              "username": "Huiyzzm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039239349267808502",
+        "in_reply_to_user_id": "1793300901622640640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039238278084436365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huiyzzm 真的很贵，但是想吃就吃w！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793300901622640640",
+        "conversation_id": "2039196202131222782",
+        "created_at": "2026-04-01T07:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T08:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039238278084436365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917047326990094336",
+              "start": 0,
+              "username": "0TwT012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039238278084436365",
+        "in_reply_to_user_id": "1917047326990094336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039196202131222782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0TwT012 可是16的蛋挞真的有点贵吧🥹看到你这条突然好想吃蛋挞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/💬//碎碎念//情感博主//你喜欢我我喜欢你//讨厌没有礼貌的人//🈲搬运//有些不是文案是我自己写的不要再问我了//里推@lovemore0102只通过🚪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "lovemore0102"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "188/288🚪纯绿",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1865,
+          "following_count": 198,
+          "like_count": 906,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1005
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-22T15:21:00.000Z",
+        "description": "女孩贬低自己想要以此得到夸奖的小心思也很可爱 | 互关看眼缘 加v看心情 可动用钞能力",
+        "id": "1793300901622640640",
+        "location": "床上",
+        "name": "一封信",
+        "pinned_tweet_id": "2007501599615414601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018704256954753024/7r6ht8tn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 77,
+          "like_count": 6865,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 1209
+        },
+        "username": "Huiyzzm",
+        "verified": false
+      }
+    ]
+  }
+}
