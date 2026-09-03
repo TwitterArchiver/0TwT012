@@ -1,0 +1,125 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2087043969444417673",
+    "created_at": "2026-08-11T05:10:32.000Z",
+    "display_text_range": [
+      0,
+      119
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T06:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087043969444417673"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2087043969444417673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我讨厌任何人为我牺牲为我放弃什么，如果你今天送我一条我喜欢了很久的项链，然后告诉我，为了买礼物你要吃好多顿没有营养的泡面，还要放弃许多和朋友一起出去玩的机会，最后说一句不过你开心就好。那我宁愿让你退掉，因为我喜欢的东西我自己靠自己也能得到\n你爱我的话我怎样都高兴，但我更希望你好好爱自己，而不是牺牲自己的利益来成全我，因为这样我只会觉得很沉重。你是想让我愧疚吗？你的意思是你的难处是我造成的吗？"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我讨厌任何人为我牺牲为我放弃什么，如果你今天送我一条我喜欢了很久的项链，然后告诉我，为了买礼物你要吃好多顿没有营养的泡面，还要放弃许多和朋友一起出去玩的机会，最后说一句不过你开心就好。那我宁愿让你退掉，因为我喜欢的东西我自己靠自己也能得到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2087043969444417673",
+        "created_at": "2026-08-11T05:10:32.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T06:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087043969444417673"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087043969444417673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我讨厌任何人为我牺牲为我放弃什么，如果你今天送我一条我喜欢了很久的项链，然后告诉我，为了买礼物你要吃好多顿没有营养的泡面，还要放弃许多和朋友一起出去玩的机会，最后说一句不过你开心就好。那我宁愿让你退掉，因为我喜欢的东西我自己靠自己也能得到\n你爱我的话我怎样都高兴，但我更希望你好好爱自己，而不是牺牲自己的利益来成全我，因为这样我只会觉得很沉重。你是想让我愧疚吗？你的意思是你的难处是我造成的吗？"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌任何人为我牺牲为我放弃什么，如果你今天送我一条我喜欢了很久的项链，然后告诉我，为了买礼物你要吃好多顿没有营养的泡面，还要放弃许多和朋友一起出去玩的机会，最后说一句不过你开心就好。那我宁愿让你退掉，因为我喜欢的东西我自己靠自己也能得到"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//情感博主//蓝标会回fo//你喜欢我我喜欢你//🚪支持口令//讨厌没有礼貌的人//🈲搬运",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQAfFm"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "is_identity_verified": false,
+        "location": "188/288🚪纯绿",
+        "most_recent_tweet_id": "2087043969444417673",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917047326990094336/1786302892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4340,
+          "following_count": 262,
+          "like_count": 1301,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 2095
+        },
+        "url": "https://t.co/hLLfQQAfFm",
+        "username": "0TwT012",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

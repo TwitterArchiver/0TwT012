@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2086115448844866018",
+    "created_at": "2026-08-08T15:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T16:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086115448844866018"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2086115448844866018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "从来没有想过会像是正常人一样，拥有正常的、会对另外一个人产生依赖的感情。然而站在阴暗之中久了，就会不自觉地想要追随光。尽管嘴巴上说：\n当个苔藓植物挺开心的，晒什么太阳。\n直到某一天，雪夜里，月光下，她对我说：今晚的月色真好。我推开了窗看了眼，嗯，还真是。于是我回复了她一个”。“句号代表着，迟疑，不愿言语，与不得不回复。\n迟疑，我知道其实以现在的我来说，根本不应该也没有本事回应她的感情，我能照顾好她吗，我能为她遮风挡雨吗？我是否真的是她心目中那样的人？\n总的来说大概就是，很抱歉我是个胆小鬼，不过纵使不情愿，我还是想告诉你：真高兴世界上居然有这么巧合的事，我也喜欢你。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从来没有想过会像是正常人一样，拥有正常的、会对另外一个人产生依赖的感情。然而站在阴暗之中久了，就会不自觉地想要追随光。尽管嘴巴上说：\n当个苔藓植物挺开心的，晒什么太阳。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2086115448844866018",
+        "created_at": "2026-08-08T15:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T16:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086115448844866018"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086115448844866018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "从来没有想过会像是正常人一样，拥有正常的、会对另外一个人产生依赖的感情。然而站在阴暗之中久了，就会不自觉地想要追随光。尽管嘴巴上说：\n当个苔藓植物挺开心的，晒什么太阳。\n直到某一天，雪夜里，月光下，她对我说：今晚的月色真好。我推开了窗看了眼，嗯，还真是。于是我回复了她一个”。“句号代表着，迟疑，不愿言语，与不得不回复。\n迟疑，我知道其实以现在的我来说，根本不应该也没有本事回应她的感情，我能照顾好她吗，我能为她遮风挡雨吗？我是否真的是她心目中那样的人？\n总的来说大概就是，很抱歉我是个胆小鬼，不过纵使不情愿，我还是想告诉你：真高兴世界上居然有这么巧合的事，我也喜欢你。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从来没有想过会像是正常人一样，拥有正常的、会对另外一个人产生依赖的感情。然而站在阴暗之中久了，就会不自觉地想要追随光。尽管嘴巴上说：\n当个苔藓植物挺开心的，晒什么太阳。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//情感博主//蓝标会回fo//你喜欢我我喜欢你//🚪支持口令//讨厌没有礼貌的人//🈲搬运",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQAfFm"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "188/288🚪纯绿",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4312,
+          "following_count": 261,
+          "like_count": 1295,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 2072
+        },
+        "url": "https://t.co/hLLfQQAfFm",
+        "username": "0TwT012",
+        "verified": true
+      }
+    ]
+  }
+}
