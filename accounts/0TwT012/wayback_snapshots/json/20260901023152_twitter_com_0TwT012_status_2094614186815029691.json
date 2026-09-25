@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2094614186815029691",
+    "created_at": "2026-09-01T02:31:52.000Z",
+    "display_text_range": [
+      0,
+      137
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T03:31:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094614186815029691"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2094614186815029691",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对前夫哥抱有一种复杂的感情。我也不知道是喜欢还是恨了 有时候恨他恨的不行脑子里就蹦出来以前幸福的时候 翻相册找东西又会翻到他照片 一想起来幸福的时候仅仅幸福1s想到已经被甩了就又想哭了真的羡慕他可以立马就忘掉所有回归正常生活 要是我也能这样该多好，想做一个没有任何情感的人吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2094614186815029691",
+        "created_at": "2026-09-01T02:31:52.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T03:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094614186815029691"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094614186815029691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对前夫哥抱有一种复杂的感情。我也不知道是喜欢还是恨了 有时候恨他恨的不行脑子里就蹦出来以前幸福的时候 翻相册找东西又会翻到他照片 一想起来幸福的时候仅仅幸福1s想到已经被甩了就又想哭了真的羡慕他可以立马就忘掉所有回归正常生活 要是我也能这样该多好，想做一个没有任何情感的人吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//情感博主👽//蓝标会回fo//你喜欢我我喜欢你//🚪支持口令//讨厌没有礼貌的人//",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQAfFm"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "is_identity_verified": false,
+        "location": "188/288🚪纯绿",
+        "most_recent_tweet_id": "2094614186815029691",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917047326990094336/1786302892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4851,
+          "following_count": 266,
+          "like_count": 1332,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 2164
+        },
+        "url": "https://t.co/hLLfQQAfFm",
+        "username": "0TwT012",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

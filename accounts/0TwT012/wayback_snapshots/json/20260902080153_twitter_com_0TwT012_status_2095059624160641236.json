@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2094340281869222345",
+    "created_at": "2026-09-02T08:01:53.000Z",
+    "display_text_range": [
+      19,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T09:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095059624160641236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1600261024338399241",
+          "start": 0,
+          "username": "rne_39"
+        },
+        {
+          "end": 18,
+          "id": "1580214076189290496",
+          "start": 8,
+          "username": "sssssn919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095059624160641236",
+    "in_reply_to_user_id": "1600261024338399241",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094684763655487803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rne_39 @sssssn919 屎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2094684753945587712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRHQr4NacAA_Nkt.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2094340281869222345",
+        "created_at": "2026-09-02T08:01:53.000Z",
+        "display_text_range": [
+          19,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T09:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095059624160641236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1600261024338399241",
+              "start": 0,
+              "username": "rne_39"
+            },
+            {
+              "end": 18,
+              "id": "1580214076189290496",
+              "start": 8,
+              "username": "sssssn919"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095059624160641236",
+        "in_reply_to_user_id": "1600261024338399241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094684763655487803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rne_39 @sssssn919 屎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094684753945587712"
+          ]
+        },
+        "author_id": "1600261024338399241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2094340281869222345",
+        "created_at": "2026-09-01T07:12:19.000Z",
+        "display_text_range": [
+          11,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T08:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094684763655487803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1580214076189290496",
+              "start": 0,
+              "username": "sssssn919"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/57vL36fx0t",
+              "end": 36,
+              "expanded_url": "https://x.com/rne_39/status/2094684763655487803/photo/1",
+              "media_key": "3_2094684753945587712",
+              "start": 13,
+              "url": "https://t.co/57vL36fx0t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094684763655487803",
+        "in_reply_to_user_id": "1580214076189290496",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094684753945587712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094340281869222345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sssssn919 史 https://t.co/57vL36fx0t"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//情感博主👽//蓝标会回fo//你喜欢我我喜欢你//🚪支持口令//讨厌没有礼貌的人//",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQAfFm"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "is_identity_verified": false,
+        "location": "188/288🚪纯绿",
+        "most_recent_tweet_id": "2095059624160641236",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917047326990094336/1786302892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4847,
+          "following_count": 269,
+          "like_count": 1336,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 2182
+        },
+        "url": "https://t.co/hLLfQQAfFm",
+        "username": "0TwT012",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T22:49:22.000Z",
+        "description": "“Life’s insane.” ｜UTC +8 time zone | English & Mandarin available",
+        "id": "1600261024338399241",
+        "is_identity_verified": false,
+        "location": "United Kingdom",
+        "most_recent_tweet_id": "2094826839906963613",
+        "name": "Rinne",
+        "pinned_tweet_id": "1748763230988804362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600261024338399241/1729290187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873953222273990656/xCYt1bp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 1044,
+          "like_count": 37922,
+          "listed_count": 2,
+          "media_count": 998,
+          "tweet_count": 4514
+        },
+        "url": "",
+        "username": "rne_39",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-12T15:09:35.000Z",
+        "description": "随缘更新 不爱社交 偶有小擦。 \n你有礼貌 我就有礼貌。发私密照片一律拉黑\n祝大家天天开心 大家都发财",
+        "id": "1580214076189290496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095021062534938647",
+        "name": "susuli",
+        "pinned_tweet_id": "2061871078037921802",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1580214076189290496/1665587566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850886530514173952/15yPH6O__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4678,
+          "following_count": 75,
+          "like_count": 1301,
+          "listed_count": 4,
+          "media_count": 326,
+          "tweet_count": 3066
+        },
+        "url": "",
+        "username": "sssssn919",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

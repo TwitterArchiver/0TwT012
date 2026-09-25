@@ -1,0 +1,125 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2095572195913437278",
+    "created_at": "2026-09-03T17:58:40.000Z",
+    "display_text_range": [
+      0,
+      141
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T18:58:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095572195913437278"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2095572195913437278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "上学是离奇枯燥乏味的生活，之前对此时的我是这样的，每天日复一日的起床、上学、下学、睡觉，重复百遍千遍万遍，直至成为肌肉记忆在某次空闲的假期依旧呆滞的进行程序，又恍惚意识到自己已经从第一场轮回中解脱。\n然后进入下一场，成为地铁月台每日朝\n九晚五上班族的一员。\n人生是一场有尽头的轮回。\n其实我总是不懂人生的意义是什么，对我来说现在和未来并没有什么不同，努力与不努力最终也不会有什么好结果。活着最重要的东西是钱，但我真的能在未来挣到钱吗？这个世界是一场噩梦，每个人背后被无数双手推搡向前，那些手无视地上的碎石坑洼，他们只让你向前走，只允许你向前走。\n我一点也不喜欢这个世界。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上学是离奇枯燥乏味的生活，之前对此时的我是这样的，每天日复一日的起床、上学、下学、睡觉，重复百遍千遍万遍，直至成为肌肉记忆在某次空闲的假期依旧呆滞的进行程序，又恍惚意识到自己已经从第一场轮回中解脱。\n然后进入下一场，成为地铁月台每日朝\n九晚五上班族的一员。\n人生是一场有尽头的轮回。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2095572195913437278",
+        "created_at": "2026-09-03T17:58:40.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T18:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095572195913437278"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095572195913437278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "上学是离奇枯燥乏味的生活，之前对此时的我是这样的，每天日复一日的起床、上学、下学、睡觉，重复百遍千遍万遍，直至成为肌肉记忆在某次空闲的假期依旧呆滞的进行程序，又恍惚意识到自己已经从第一场轮回中解脱。\n然后进入下一场，成为地铁月台每日朝\n九晚五上班族的一员。\n人生是一场有尽头的轮回。\n其实我总是不懂人生的意义是什么，对我来说现在和未来并没有什么不同，努力与不努力最终也不会有什么好结果。活着最重要的东西是钱，但我真的能在未来挣到钱吗？这个世界是一场噩梦，每个人背后被无数双手推搡向前，那些手无视地上的碎石坑洼，他们只让你向前走，只允许你向前走。\n我一点也不喜欢这个世界。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上学是离奇枯燥乏味的生活，之前对此时的我是这样的，每天日复一日的起床、上学、下学、睡觉，重复百遍千遍万遍，直至成为肌肉记忆在某次空闲的假期依旧呆滞的进行程序，又恍惚意识到自己已经从第一场轮回中解脱。\n然后进入下一场，成为地铁月台每日朝\n九晚五上班族的一员。\n人生是一场有尽头的轮回。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//情感博主👽//蓝标会回fo//你喜欢我我喜欢你//🚪支持口令//讨厌没有礼貌的人//",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQAfFm"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "is_identity_verified": false,
+        "location": "188/288🚪纯绿",
+        "most_recent_tweet_id": "2095572195913437278",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917047326990094336/1786302892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4864,
+          "following_count": 269,
+          "like_count": 1345,
+          "listed_count": 2,
+          "media_count": 178,
+          "tweet_count": 2198
+        },
+        "url": "https://t.co/hLLfQQAfFm",
+        "username": "0TwT012",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

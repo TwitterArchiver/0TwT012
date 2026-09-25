@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099324979343233024"
+      ]
+    },
+    "author_id": "1917047326990094336",
+    "conversation_id": "2099324995390632197",
+    "created_at": "2026-09-14T02:30:57.000Z",
+    "display_text_range": [
+      0,
+      88
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T03:30:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099324995390632197"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hrkt12d0wM",
+          "end": 112,
+          "expanded_url": "https://x.com/0TwT012/status/2099324995390632197/photo/1",
+          "media_key": "3_2099324979343233024",
+          "start": 89,
+          "url": "https://t.co/hrkt12d0wM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099324995390632197",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099324979343233024"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "关于我为什么会写东西，因为很久以前开始我发现自己口头表达的能力特别差，于是开始在纸上写，有手机之后开始写电子日记。一写就是很多年，有很多人因为我写的东西而喜欢也有人讨厌我恨我。\n我是一个自毁倾向很严重的人，意识到这个问题的时候，好像很多事都有了眉目。我对几乎所有的事所有的人都是极度坦诚的，这也导致总是有人喜欢在我揭开的伤口里戳来戳去。不过好处是，时间长了再也没人能戳得动，极度的坦诚再也伤害不到我，反而成为了筛选环境和人的利器。这么多年一直在过着一种没有明天的生活，那些没能杀死我的东西，变成了生成大家所看到的文字。\n\n我一直希望我能在迷茫和痛苦中杀出一条血路。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于我为什么会写东西，因为很久以前开始我发现自己口头表达的能力特别差，于是开始在纸上写，有手机之后开始写电子日记。一写就是很多年，有很多人因为我写的东西而喜欢也有人讨厌我恨我。 https://t.co/hrkt12d0wM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 805,
+        "media_key": "3_2099324979343233024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSJM8i3bkAAyx-w.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099324979343233024"
+          ]
+        },
+        "author_id": "1917047326990094336",
+        "conversation_id": "2099324995390632197",
+        "created_at": "2026-09-14T02:30:57.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T03:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099324995390632197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hrkt12d0wM",
+              "end": 112,
+              "expanded_url": "https://x.com/0TwT012/status/2099324995390632197/photo/1",
+              "media_key": "3_2099324979343233024",
+              "start": 89,
+              "url": "https://t.co/hrkt12d0wM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099324995390632197",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099324979343233024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "关于我为什么会写东西，因为很久以前开始我发现自己口头表达的能力特别差，于是开始在纸上写，有手机之后开始写电子日记。一写就是很多年，有很多人因为我写的东西而喜欢也有人讨厌我恨我。\n我是一个自毁倾向很严重的人，意识到这个问题的时候，好像很多事都有了眉目。我对几乎所有的事所有的人都是极度坦诚的，这也导致总是有人喜欢在我揭开的伤口里戳来戳去。不过好处是，时间长了再也没人能戳得动，极度的坦诚再也伤害不到我，反而成为了筛选环境和人的利器。这么多年一直在过着一种没有明天的生活，那些没能杀死我的东西，变成了生成大家所看到的文字。\n\n我一直希望我能在迷茫和痛苦中杀出一条血路。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于我为什么会写东西，因为很久以前开始我发现自己口头表达的能力特别差，于是开始在纸上写，有手机之后开始写电子日记。一写就是很多年，有很多人因为我写的东西而喜欢也有人讨厌我恨我。 https://t.co/hrkt12d0wM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//情感博主👽//蓝标会回fo//你喜欢我我喜欢你//🚪支持口令//讨厌没有礼貌的人//",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0twt012",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0twt012",
+                "start": 0,
+                "url": "https://t.co/7tXTqlJbtL"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "is_identity_verified": false,
+        "location": "188/288🚪纯绿",
+        "most_recent_tweet_id": "2099324995390632197",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917047326990094336/1786302892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4938,
+          "following_count": 274,
+          "like_count": 1421,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 2267
+        },
+        "url": "https://t.co/7tXTqlJbtL",
+        "username": "0TwT012",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

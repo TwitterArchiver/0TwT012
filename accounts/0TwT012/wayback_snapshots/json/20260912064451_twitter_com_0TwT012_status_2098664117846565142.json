@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2098664117846565142",
+    "created_at": "2026-09-12T06:44:51.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T07:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098664117846565142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1959338907218370560",
+          "start": 3,
+          "username": "miniworldovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098664117846565142",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 96
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098270708996661380",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miniworldovo: 在推上要是喜欢上一个男孩 我这边给您开的药方是去看下他回复"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2098664117846565142",
+        "created_at": "2026-09-12T06:44:51.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T07:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098664117846565142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1959338907218370560",
+              "start": 3,
+              "username": "miniworldovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098664117846565142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098270708996661380",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miniworldovo: 在推上要是喜欢上一个男孩 我这边给您开的药方是去看下他回复"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959338907218370560",
+        "conversation_id": "2098270708996661380",
+        "created_at": "2026-09-11T04:41:35.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T05:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098270708996661380"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098270708996661380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 138554,
+          "like_count": 2159,
+          "quote_count": 23,
+          "reply_count": 527,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "在推上要是喜欢上一个男孩 我这边给您开的药方是去看下他回复"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//情感博主👽//蓝标会回fo//你喜欢我我喜欢你//🚪支持口令//讨厌没有礼貌的人//",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQAfFm"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "is_identity_verified": false,
+        "location": "188/288🚪纯绿",
+        "most_recent_tweet_id": "2098664117846565142",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917047326990094336/1786302892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4913,
+          "following_count": 272,
+          "like_count": 1409,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 2243
+        },
+        "url": "https://t.co/hLLfQQAfFm",
+        "username": "0TwT012",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-23T19:36:24.000Z",
+        "description": "",
+        "id": "1959338907218370560",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098658148563484861",
+        "name": "呕吐袋",
+        "pinned_tweet_id": "2066906130144690263",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959338907218370560/1788534893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098239159647477761/SsbK-GkC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 62,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 591
+        },
+        "url": "",
+        "username": "miniworldovo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2100086658280608198",
+    "created_at": "2026-09-16T12:30:07.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T13:30:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100200559932502383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1906965920515551233",
+          "start": 0,
+          "username": "OrangeTsukii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100200559932502383",
+    "in_reply_to_user_id": "1906965920515551233",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100086658280608198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OrangeTsukii 好美的文字"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2720,
+        "media_key": "3_2100086649179066368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSUBrkHb0AAIoHX.jpg",
+        "width": 2720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2100086658280608198",
+        "created_at": "2026-09-16T12:30:07.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T13:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100200559932502383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1906965920515551233",
+              "start": 0,
+              "username": "OrangeTsukii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100200559932502383",
+        "in_reply_to_user_id": "1906965920515551233",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100086658280608198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OrangeTsukii 好美的文字"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100086649179066368"
+          ]
+        },
+        "author_id": "1906965920515551233",
+        "conversation_id": "2100086658280608198",
+        "created_at": "2026-09-16T04:57:31.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T05:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100086658280608198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DoQr5HRfwR",
+              "end": 93,
+              "expanded_url": "https://x.com/OrangeTsukii/status/2100086658280608198/photo/1",
+              "media_key": "3_2100086649179066368",
+              "start": 70,
+              "url": "https://t.co/DoQr5HRfwR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100086658280608198",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100086649179066368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "我一点也不懂花和花艺，不过还是故作浪漫的问了她喜欢什么花。她说喜欢向日葵。太好了，我起码认识一个向日葵，如果说一些我不认识的花就丢大脸了。\n\n下次再见面的时候，我专门绕路去买了一束向日葵送给她，她一直捧在怀里，走路跳来跳去，时不时摘下几片花瓣放进嘴里嚼两下。我问她向日葵的花瓣是什么味道？她给我撕了一片，我尝了一口，感觉好苦好涩，不知道她在尝什么。\n\n哦，正午的海是湛蓝的，我注意到她那天穿的也是水色，和海面的颜色如出一辙。她走在前面，我跟在后面，有一句没一句地闲聊，偶尔拿出手机一起听一听橙星的新歌。\n\n我问她向日葵怎么办？要带回学校吗。她说就把它留在海里吧。\n\n她像是拆礼物一般小心翼翼的拆掉包装，再把长长的茎掰断一部分，然后放进海里。我听见她小声默念了一些什么，像是在许愿一样。然后缓缓用手把向日葵推向深水处。我站在后面看着，拿出手机拍下了这张照片。被她发现后，她用湿漉漉的手糊了我一脸，好咸。\n\n后来在看花束般的恋爱时，记得娟说了这样一句话：「据说，如果一个女孩子把花的名字告诉你，那么以后每次看到这种花，你都会想起她。」\n\n好狡猾，向日葵的花语在我心里变成了那年水中的盛夏。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 241,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一点也不懂花和花艺，不过还是故作浪漫的问了她喜欢什么花。她说喜欢向日葵。太好了，我起码认识一个向日葵，如果说一些我不认识的花就丢大脸了。 https://t.co/DoQr5HRfwR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//情感博主👽//蓝标会回fo//你喜欢我我喜欢你//🚪支持口令//讨厌没有礼貌的人//",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0twt012",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0twt012",
+                "start": 0,
+                "url": "https://t.co/7tXTqlJbtL"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "is_identity_verified": false,
+        "location": "188/288🚪纯绿",
+        "most_recent_tweet_id": "2100200559932502383",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917047326990094336/1786302892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4999,
+          "following_count": 262,
+          "like_count": 1446,
+          "listed_count": 2,
+          "media_count": 185,
+          "tweet_count": 2293
+        },
+        "url": "https://t.co/7tXTqlJbtL",
+        "username": "0TwT012",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-01T07:04:46.000Z",
+        "description": "日本摇滚乐重度依赖。",
+        "id": "1906965920515551233",
+        "is_identity_verified": false,
+        "location": "游荡在互联网上的初恋幽灵",
+        "most_recent_tweet_id": "2100194313464660277",
+        "name": "Tsukiyo",
+        "pinned_tweet_id": "2097746438222700904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906965920515551233/1789065135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092182042708746240/2bOhDkc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 60,
+          "like_count": 13979,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 591
+        },
+        "url": "",
+        "username": "OrangeTsukii",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
