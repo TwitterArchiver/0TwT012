@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105625014246752256"
+      ]
+    },
+    "author_id": "1917047326990094336",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2105625031326015848",
+    "created_at": "2026-10-01T11:45:02.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T12:45:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105625031326015848"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Brg8JA1t6U",
+          "end": 30,
+          "expanded_url": "https://x.com/0TwT012/status/2105625031326015848/photo/1",
+          "media_key": "3_2105625014246752256",
+          "start": 7,
+          "url": "https://t.co/Brg8JA1t6U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105625031326015848",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2105625014246752256"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "幸福是何物啊 https://t.co/Brg8JA1t6U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 666,
+        "media_key": "3_2105625014246752256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTiuy1xawAALD51.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105625014246752256"
+          ]
+        },
+        "author_id": "1917047326990094336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105625031326015848",
+        "created_at": "2026-10-01T11:45:02.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T12:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105625031326015848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Brg8JA1t6U",
+              "end": 30,
+              "expanded_url": "https://x.com/0TwT012/status/2105625031326015848/photo/1",
+              "media_key": "3_2105625014246752256",
+              "start": 7,
+              "url": "https://t.co/Brg8JA1t6U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105625031326015848",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2105625014246752256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "幸福是何物啊 https://t.co/Brg8JA1t6U"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//努力不自杀中//蓝标会回fo//你喜欢我我喜欢你//喜欢我可以请我吃kiri//讨厌没有礼貌的人//",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0twt012",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0twt012",
+                "start": 0,
+                "url": "https://t.co/7tXTqlJJjj"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "is_identity_verified": false,
+        "location": "188/288🚪纯绿",
+        "most_recent_tweet_id": "2105625031326015848",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917047326990094336/1786302892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5282,
+          "following_count": 198,
+          "like_count": 1513,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 2370
+        },
+        "url": "https://t.co/7tXTqlJJjj",
+        "username": "0TwT012",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2105563522461835651",
+    "created_at": "2026-10-02T17:45:21.000Z",
+    "display_text_range": [
+      11,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T18:45:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106078094096531906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2018306514549972992",
+          "start": 0,
+          "username": "bcfqdtfqz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106078094096531906",
+    "in_reply_to_user_id": "2018306514549972992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105563522461835651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bcfqdtfqz 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2105563522461835651",
+        "created_at": "2026-10-02T17:45:21.000Z",
+        "display_text_range": [
+          11,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T18:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106078094096531906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106078094096531906",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105563522461835651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz 好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2105563522461835651",
+        "created_at": "2026-10-01T07:40:37.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T08:39:41.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105563287614267899",
+          "2105563522461835651"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105563522461835651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 450,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实如果你真的怕我操莫名其妙操你的话，你可以网购一个大小适合的困龙锁，然后我找个地方，当着你面直接戴上的。\n\n前提是你别把钥匙忘记了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//努力不自杀中//蓝标会回fo//你喜欢我我喜欢你//喜欢我可以请我吃kiri//讨厌没有礼貌的人//",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0twt012",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0twt012",
+                "start": 0,
+                "url": "https://t.co/7tXTqlJJjj"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "is_identity_verified": false,
+        "location": "188/288🚪纯绿",
+        "most_recent_tweet_id": "2106078094096531906",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917047326990094336/1786302892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5294,
+          "following_count": 198,
+          "like_count": 1533,
+          "listed_count": 2,
+          "media_count": 196,
+          "tweet_count": 2390
+        },
+        "url": "https://t.co/7tXTqlJJjj",
+        "username": "0TwT012",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n年龄未知，性别未知，身高未知，体重未知\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n🚪1988\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 114,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 91,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2106078006687211658",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2104,
+          "following_count": 1446,
+          "like_count": 557,
+          "listed_count": 5,
+          "media_count": 937,
+          "tweet_count": 4397
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

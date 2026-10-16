@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2104938395076309400",
+    "created_at": "2026-09-29T17:44:36.000Z",
+    "display_text_range": [
+      12,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T18:44:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104990741609193879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1899704475880751104",
+          "start": 0,
+          "username": "D4ncingc4p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104990741609193879",
+    "in_reply_to_user_id": "1899704475880751104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104973697715245401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D4ncingc4p 但这是我前夫哥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2104938395076309400",
+        "created_at": "2026-09-29T17:44:36.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T18:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104990741609193879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1899704475880751104",
+              "start": 0,
+              "username": "D4ncingc4p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104990741609193879",
+        "in_reply_to_user_id": "1899704475880751104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104973697715245401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D4ncingc4p 但这是我前夫哥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899704475880751104",
+        "conversation_id": "2104938395076309400",
+        "created_at": "2026-09-29T16:36:52.000Z",
+        "display_text_range": [
+          9,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T17:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104973697715245401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917047326990094336",
+              "start": 0,
+              "username": "0TwT012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104973697715245401",
+        "in_reply_to_user_id": "1917047326990094336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104938395076309400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0TwT012 我去感觉那句未尝不可好甜啊，和你相爱❤️到怎样都行，是你就好的那种感觉"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//努力不自杀中//蓝标会回fo//你喜欢我我喜欢你//喜欢我可以请我吃kiri//讨厌没有礼貌的人//",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0twt012",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0twt012",
+                "start": 0,
+                "url": "https://t.co/7tXTqlJJjj"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "is_identity_verified": false,
+        "location": "188/288🚪纯绿",
+        "most_recent_tweet_id": "2104990741609193879",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917047326990094336/1786302892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5277,
+          "following_count": 199,
+          "like_count": 1507,
+          "listed_count": 2,
+          "media_count": 194,
+          "tweet_count": 2366
+        },
+        "url": "https://t.co/7tXTqlJJjj",
+        "username": "0TwT012",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-12T06:10:46.000Z",
+        "description": "什么都发",
+        "id": "1899704475880751104",
+        "is_identity_verified": false,
+        "location": "床上",
+        "most_recent_tweet_id": "2104990591167959530",
+        "name": "Joe Barbarian",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1899704475880751104/1742008294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025839336336265216/Z4tZWELa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 17,
+          "like_count": 2300,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 987
+        },
+        "url": "",
+        "username": "D4ncingc4p",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

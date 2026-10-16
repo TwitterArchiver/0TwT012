@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917047326990094336",
+    "conversation_id": "2105691313874272546",
+    "created_at": "2026-10-01T18:05:01.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T19:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105720657120211213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2015509801846046721",
+          "start": 0,
+          "username": "fffalsum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105720657120211213",
+    "in_reply_to_user_id": "2015509801846046721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105691313874272546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fffalsum 赞同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2105691313874272546",
+        "created_at": "2026-10-01T18:05:01.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T19:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105720657120211213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2015509801846046721",
+              "start": 0,
+              "username": "fffalsum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105720657120211213",
+        "in_reply_to_user_id": "2015509801846046721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105691313874272546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fffalsum 赞同"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015509801846046721",
+        "conversation_id": "2105691313874272546",
+        "created_at": "2026-10-01T16:08:25.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T17:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105691313874272546"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105691313874272546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 831,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很明显我急切需要一个可以安全的持续的愉悦的进行肢体接触的朋友，也许一天一次，也许一周一次，无所谓只要是稳定的就好了，我很想念身前暖暖的那种感觉，是活人啊......"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//努力不自杀中//蓝标会回fo//你喜欢我我喜欢你//喜欢我可以请我吃kiri//讨厌没有礼貌的人//",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0twt012",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0twt012",
+                "start": 0,
+                "url": "https://t.co/7tXTqlJJjj"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "is_identity_verified": false,
+        "location": "188/288🚪纯绿",
+        "most_recent_tweet_id": "2105720657120211213",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917047326990094336/1786302892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5284,
+          "following_count": 198,
+          "like_count": 1521,
+          "listed_count": 2,
+          "media_count": 196,
+          "tweet_count": 2378
+        },
+        "url": "https://t.co/7tXTqlJJjj",
+        "username": "0TwT012",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-25T19:39:30.000Z",
+        "description": "你觉得我在胡言乱语那就是我疯了/任何言论不指向任何人/发的所有东西旨在取悦我自己/我也不知道我在干嘛\n这个账号会更新但不限于碎碎念、好吃的好看的、小动物图片、音游相关、偶尔emo、网络文案等等\n想知道我的属性可以看置顶图",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/bf3X7jGd",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/bf3X7jGd",
+                "start": 0,
+                "url": "https://t.co/XYnd09cawX"
+              }
+            ]
+          }
+        },
+        "id": "2015509801846046721",
+        "is_identity_verified": false,
+        "location": "外星",
+        "most_recent_tweet_id": "2105711325867573413",
+        "name": "月社妃",
+        "pinned_tweet_id": "2049577875796525235",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015509801846046721/1790023158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105304294950105088/OqxDqWG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 591,
+          "like_count": 28481,
+          "listed_count": 0,
+          "media_count": 486,
+          "tweet_count": 2525
+        },
+        "url": "https://t.co/XYnd09cawX",
+        "username": "fffalsum",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
